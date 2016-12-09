@@ -1,21 +1,1031 @@
-{"created_at":"Thu Dec 08 19:55:20 +0000 2016","id":806950309796913153,"id_str":"806950309796913153","text":"RT @recipeofcuisine: Please RT! #recipes #food #dessert My Top 5 Favorite Bars! https:\/\/t.co\/pTbwCEQmmI","source":"\u003ca href=\"https:\/\/github.com\/GirishRawat\" rel=\"nofollow\"\u003eTwitter Food Bot\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":4005540733,"id_str":"4005540733","name":"Food Bot","screen_name":"thefoodbot","location":"Milky Way","url":null,"description":"Tweet any food and get a retweet with the food's nutritional values. Currently accepting requests by invitation only.","protected":false,"verified":false,"followers_count":2292,"friends_count":242,"listed_count":2675,"favourites_count":55839,"statuses_count":56113,"created_at":"Sat Oct 24 19:36:10 +0000 2015","utc_offset":null,"time_zone":null,"geo_enabled":false,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"FA743E","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/658005123507970048\/62pR-adB_normal.png","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/658005123507970048\/62pR-adB_normal.png","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/4005540733\/1445716325","default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"retweeted_status":{"created_at":"Thu Dec 08 19:54:55 +0000 2016","id":806950201789390848,"id_str":"806950201789390848","text":"Please RT! #recipes #food #dessert My Top 5 Favorite Bars! https:\/\/t.co\/pTbwCEQmmI","source":"\u003ca href=\"http:\/\/recipesclub.org\" rel=\"nofollow\"\u003eRSS recipeofcuisine\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":740710368914354177,"id_str":"740710368914354177","name":"Recipes of Cuisine","screen_name":"recipeofcuisine","location":"Florida, USA","url":"http:\/\/recipesclub.org","description":"The best recipes that you can find online.","protected":false,"verified":false,"followers_count":441,"friends_count":1893,"listed_count":19,"favourites_count":0,"statuses_count":13563,"created_at":"Thu Jun 09 01:01:28 +0000 2016","utc_offset":null,"time_zone":null,"geo_enabled":false,"lang":"es","contributors_enabled":false,"is_translator":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"91D2FA","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/740712657079111680\/Ghu4-0Hs_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/740712657079111680\/Ghu4-0Hs_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/740710368914354177\/1465434540","default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":1,"favorite_count":0,"entities":{"hashtags":[{"text":"recipes","indices":[11,19]},{"text":"food","indices":[20,25]},{"text":"dessert","indices":[26,34]}],"urls":[{"url":"https:\/\/t.co\/pTbwCEQmmI","expanded_url":"http:\/\/tinyurl.com\/j2me8us","display_url":"tinyurl.com\/j2me8us","indices":[59,82]}],"user_mentions":[],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en"},"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"recipes","indices":[32,40]},{"text":"food","indices":[41,46]},{"text":"dessert","indices":[47,55]}],"urls":[{"url":"https:\/\/t.co\/pTbwCEQmmI","expanded_url":"http:\/\/tinyurl.com\/j2me8us","display_url":"tinyurl.com\/j2me8us","indices":[80,103]}],"user_mentions":[{"screen_name":"recipeofcuisine","name":"Recipes of Cuisine","id":740710368914354177,"id_str":"740710368914354177","indices":[3,19]}],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226920924"}
-{"created_at":"Thu Dec 08 19:55:26 +0000 2016","id":806950332790095872,"id_str":"806950332790095872","text":"See &amp; this \ud83d\udc47\ud83d\udc47\nhttps:\/\/t.co\/zggZFeT3qq \n\n&amp; check my profile link \ud83d\udc4c\n#cook #foodie #foodporn #food #tasty #cooking\u2026 https:\/\/t.co\/5JLOC9Lpy4","display_text_range":[0,140],"source":"\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e","truncated":true,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":244852930,"id_str":"244852930","name":"chef_Achilles","screen_name":"chef_Achilles","location":"if u like myfoodpics.follow me","url":"http:\/\/www.facebook.com\/spitiki.gastronomia","description":"http:\/\/lm.facebook.com\/l.php?u=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_pDUe3DFYZM%26sns%3Dem&h=2AQHTff_9&enc=AZNRiFDTQ6junEK6I8AQM-_3ftqmAM2f8nwwgURHEtZjM7j","protected":false,"verified":false,"followers_count":241,"friends_count":75,"listed_count":66,"favourites_count":6325,"statuses_count":1118,"created_at":"Sun Jan 30 08:32:49 +0000 2011","utc_offset":7200,"time_zone":"Athens","geo_enabled":true,"lang":"el","contributors_enabled":false,"is_translator":false,"profile_background_color":"C0DEED","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/801088631867842560\/a57nPrQj_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/801088631867842560\/a57nPrQj_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/244852930\/1406453339","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"extended_tweet":{"full_text":"See &amp; this \ud83d\udc47\ud83d\udc47\nhttps:\/\/t.co\/zggZFeT3qq \n\n&amp; check my profile link \ud83d\udc4c\n#cook #foodie #foodporn #food #tasty #cooking #fishing #Hunting #fish #fit https:\/\/t.co\/JezD6emWE4","display_text_range":[0,148],"entities":{"hashtags":[{"text":"cook","indices":[74,79]},{"text":"foodie","indices":[80,87]},{"text":"foodporn","indices":[88,97]},{"text":"food","indices":[98,103]},{"text":"tasty","indices":[104,110]},{"text":"cooking","indices":[111,119]},{"text":"fishing","indices":[120,128]},{"text":"Hunting","indices":[129,137]},{"text":"fish","indices":[138,143]},{"text":"fit","indices":[144,148]}],"urls":[{"url":"https:\/\/t.co\/zggZFeT3qq","expanded_url":"http:\/\/www.youtube.com\/watch?v=_pDUe3DFYZM&sns=em","display_url":"youtube.com\/watch?v=_pDUe3\u2026","indices":[18,41]}],"user_mentions":[],"symbols":[],"media":[{"id":806950301408358400,"id_str":"806950301408358400","indices":[149,172],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdBhLW8AAFtF_.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdBhLW8AAFtF_.jpg","url":"https:\/\/t.co\/JezD6emWE4","display_url":"pic.twitter.com\/JezD6emWE4","expanded_url":"https:\/\/twitter.com\/chef_Achilles\/status\/806950332790095872\/photo\/1","type":"photo","sizes":{"thumb":{"w":150,"h":150,"resize":"crop"},"large":{"w":2048,"h":1536,"resize":"fit"},"medium":{"w":1200,"h":900,"resize":"fit"},"small":{"w":680,"h":510,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":806950301408358400,"id_str":"806950301408358400","indices":[149,172],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdBhLW8AAFtF_.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdBhLW8AAFtF_.jpg","url":"https:\/\/t.co\/JezD6emWE4","display_url":"pic.twitter.com\/JezD6emWE4","expanded_url":"https:\/\/twitter.com\/chef_Achilles\/status\/806950332790095872\/photo\/1","type":"photo","sizes":{"thumb":{"w":150,"h":150,"resize":"crop"},"large":{"w":2048,"h":1536,"resize":"fit"},"medium":{"w":1200,"h":900,"resize":"fit"},"small":{"w":680,"h":510,"resize":"fit"}}}]}},"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"cook","indices":[74,79]},{"text":"foodie","indices":[80,87]},{"text":"foodporn","indices":[88,97]},{"text":"food","indices":[98,103]},{"text":"tasty","indices":[104,110]},{"text":"cooking","indices":[111,119]}],"urls":[{"url":"https:\/\/t.co\/zggZFeT3qq","expanded_url":"http:\/\/www.youtube.com\/watch?v=_pDUe3DFYZM&sns=em","display_url":"youtube.com\/watch?v=_pDUe3\u2026","indices":[18,41]},{"url":"https:\/\/t.co\/5JLOC9Lpy4","expanded_url":"https:\/\/twitter.com\/i\/web\/status\/806950332790095872","display_url":"twitter.com\/i\/web\/status\/8\u2026","indices":[121,144]}],"user_mentions":[],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226926406"}
-{"created_at":"Thu Dec 08 19:55:28 +0000 2016","id":806950339811430400,"id_str":"806950339811430400","text":"The Overloaded Chicken Tostada. YUM #AlbertsMexicanFood #MexicanFood #Delicious #Yum#EatLocal #LocalEats #LocalTalk https:\/\/t.co\/7fDaOa3jW3","display_text_range":[0,115],"source":"\u003ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003eHootsuite\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":76937930,"id_str":"76937930","name":"Alberts Mexican Food","screen_name":"albertstaco","location":"San Diego, CA ","url":"http:\/\/www.albertsmexicanfood.com\/","description":"Home of the Big Rolled Tacos","protected":false,"verified":false,"followers_count":138,"friends_count":44,"listed_count":5,"favourites_count":27,"statuses_count":163,"created_at":"Thu Sep 24 13:24:11 +0000 2009","utc_offset":-28800,"time_zone":"Pacific Time (US & Canada)","geo_enabled":true,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"C0DEED","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/804724052560461824\/PN9fQuuV_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/804724052560461824\/PN9fQuuV_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/76937930\/1480696161","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"AlbertsMexicanFood","indices":[36,55]},{"text":"MexicanFood","indices":[56,68]},{"text":"Delicious","indices":[69,79]},{"text":"LocalEats","indices":[94,104]},{"text":"LocalTalk","indices":[105,115]}],"urls":[],"user_mentions":[],"symbols":[],"media":[{"id":806950336372109316,"id_str":"806950336372109316","indices":[116,139],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdDjbXcAQvSKA.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdDjbXcAQvSKA.jpg","url":"https:\/\/t.co\/7fDaOa3jW3","display_url":"pic.twitter.com\/7fDaOa3jW3","expanded_url":"https:\/\/twitter.com\/albertstaco\/status\/806950339811430400\/photo\/1","type":"photo","sizes":{"thumb":{"w":150,"h":150,"resize":"crop"},"small":{"w":680,"h":548,"resize":"fit"},"medium":{"w":824,"h":664,"resize":"fit"},"large":{"w":824,"h":664,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":806950336372109316,"id_str":"806950336372109316","indices":[116,139],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdDjbXcAQvSKA.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdDjbXcAQvSKA.jpg","url":"https:\/\/t.co\/7fDaOa3jW3","display_url":"pic.twitter.com\/7fDaOa3jW3","expanded_url":"https:\/\/twitter.com\/albertstaco\/status\/806950339811430400\/photo\/1","type":"photo","sizes":{"thumb":{"w":150,"h":150,"resize":"crop"},"small":{"w":680,"h":548,"resize":"fit"},"medium":{"w":824,"h":664,"resize":"fit"},"large":{"w":824,"h":664,"resize":"fit"}}}]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226928080"}
-{"created_at":"Thu Dec 08 19:55:32 +0000 2016","id":806950357968396288,"id_str":"806950357968396288","text":"Come to @MarketRegina I will have free samples. If you like lemon you'll love these @TonyRomasSK #YQR #yqrfood. 206\u2026 https:\/\/t.co\/aR3yWDsEjb","display_text_range":[0,140],"source":"\u003ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c\/a\u003e","truncated":true,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":4855805301,"id_str":"4855805301","name":"D'licious Treats","screen_name":"LiciousTreats","location":"Regina, Saskatchewan","url":"http:\/\/www.dlicioustreats.net","description":"All baked goods are made with the best ingredients. All from scratch and all done by me. I love to bake. @MarketRegina Sat 9-1 & #YQR","protected":false,"verified":false,"followers_count":285,"friends_count":279,"listed_count":19,"favourites_count":590,"statuses_count":1307,"created_at":"Thu Jan 28 02:48:27 +0000 2016","utc_offset":null,"time_zone":null,"geo_enabled":true,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"F5F8FA","profile_background_image_url":"","profile_background_image_url_https":"","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/797333625385537536\/m6MtCVu8_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/797333625385537536\/m6MtCVu8_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/4855805301\/1467644658","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"quoted_status_id":806944685004460032,"quoted_status_id_str":"806944685004460032","quoted_status":{"created_at":"Thu Dec 08 19:32:59 +0000 2016","id":806944685004460032,"id_str":"806944685004460032","text":"@LiciousTreats @MarketRegina and here we are lickin' our chops! #YQR #Food https:\/\/t.co\/m8E4PIT6eS","display_text_range":[29,74],"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":806577778308968448,"in_reply_to_status_id_str":"806577778308968448","in_reply_to_user_id":4855805301,"in_reply_to_user_id_str":"4855805301","in_reply_to_screen_name":"LiciousTreats","user":{"id":3291065714,"id_str":"3291065714","name":"Tony Romas Sask","screen_name":"TonyRomasSK","location":"Saskatchewan, Canada","url":"http:\/\/tonyromas.com","description":"Tony Roma\u2019s is the largest casual theme restaurant chain specializing in ribs in the world, with nearly 200 restaurant locations in 17 states and 33 countries.","protected":false,"verified":false,"followers_count":174,"friends_count":356,"listed_count":5,"favourites_count":2266,"statuses_count":566,"created_at":"Fri Jul 24 20:46:22 +0000 2015","utc_offset":-28800,"time_zone":"Pacific Time (US & Canada)","geo_enabled":false,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"DD2E44","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/624682641632047104\/OFRwXTaS_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/624682641632047104\/OFRwXTaS_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/3291065714\/1437770960","default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"YQR","indices":[64,68]},{"text":"Food","indices":[69,74]}],"urls":[],"user_mentions":[{"screen_name":"LiciousTreats","name":"D'licious Treats","id":4855805301,"id_str":"4855805301","indices":[0,14]},{"screen_name":"MarketRegina","name":"ReginaFarmersMarket","id":1389537156,"id_str":"1389537156","indices":[15,28]}],"symbols":[],"media":[{"id":806944594101293056,"id_str":"806944594101293056","indices":[75,98],"media_url":"http:\/\/pbs.twimg.com\/tweet_video_thumb\/CzLX1TzUUAAPNsG.jpg","media_url_https":"https:\/\/pbs.twimg.com\/tweet_video_thumb\/CzLX1TzUUAAPNsG.jpg","url":"https:\/\/t.co\/m8E4PIT6eS","display_url":"pic.twitter.com\/m8E4PIT6eS","expanded_url":"https:\/\/twitter.com\/TonyRomasSK\/status\/806944685004460032\/photo\/1","type":"photo","sizes":{"large":{"w":346,"h":264,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"small":{"w":340,"h":259,"resize":"fit"},"medium":{"w":346,"h":264,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":806944594101293056,"id_str":"806944594101293056","indices":[75,98],"media_url":"http:\/\/pbs.twimg.com\/tweet_video_thumb\/CzLX1TzUUAAPNsG.jpg","media_url_https":"https:\/\/pbs.twimg.com\/tweet_video_thumb\/CzLX1TzUUAAPNsG.jpg","url":"https:\/\/t.co\/m8E4PIT6eS","display_url":"pic.twitter.com\/m8E4PIT6eS","expanded_url":"https:\/\/twitter.com\/TonyRomasSK\/status\/806944685004460032\/photo\/1","type":"animated_gif","sizes":{"large":{"w":346,"h":264,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"small":{"w":340,"h":259,"resize":"fit"},"medium":{"w":346,"h":264,"resize":"fit"}},"video_info":{"aspect_ratio":[173,132],"variants":[{"bitrate":0,"content_type":"video\/mp4","url":"https:\/\/video.twimg.com\/tweet_video\/CzLX1TzUUAAPNsG.mp4"}]}}]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en"},"is_quote_status":true,"extended_tweet":{"full_text":"Come to @MarketRegina I will have free samples. If you like lemon you'll love these @TonyRomasSK #YQR #yqrfood. 2065 Hamilton st 9-1. https:\/\/t.co\/0cU0Vm3hg8","display_text_range":[0,133],"entities":{"hashtags":[{"text":"YQR","indices":[97,101]},{"text":"yqrfood","indices":[102,110]}],"urls":[{"url":"https:\/\/t.co\/0cU0Vm3hg8","expanded_url":"https:\/\/twitter.com\/tonyromassk\/status\/806944685004460032","display_url":"twitter.com\/tonyromassk\/st\u2026","indices":[134,157]}],"user_mentions":[{"screen_name":"MarketRegina","name":"ReginaFarmersMarket","id":1389537156,"id_str":"1389537156","indices":[8,21]},{"screen_name":"TonyRomasSK","name":"Tony Romas Sask","id":3291065714,"id_str":"3291065714","indices":[84,96]}],"symbols":[]}},"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"YQR","indices":[97,101]},{"text":"yqrfood","indices":[102,110]}],"urls":[{"url":"https:\/\/t.co\/aR3yWDsEjb","expanded_url":"https:\/\/twitter.com\/i\/web\/status\/806950357968396288","display_url":"twitter.com\/i\/web\/status\/8\u2026","indices":[117,140]}],"user_mentions":[{"screen_name":"MarketRegina","name":"ReginaFarmersMarket","id":1389537156,"id_str":"1389537156","indices":[8,21]},{"screen_name":"TonyRomasSK","name":"Tony Romas Sask","id":3291065714,"id_str":"3291065714","indices":[84,96]}],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226932409"}
-{"created_at":"Thu Dec 08 19:55:33 +0000 2016","id":806950360522911744,"id_str":"806950360522911744","text":"Please RT #recipes #food #cooking #delicious #cook #recipe Wasabi Almond Bean Dip https:\/\/t.co\/Zi00WzK3sT https:\/\/t.co\/wXIPRKeS3O","display_text_range":[0,105],"source":"\u003ca href=\"https:\/\/laquesea.com\" rel=\"nofollow\"\u003eTheBstRecipes\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":721982324540370944,"id_str":"721982324540370944","name":"Best Recipes","screen_name":"TheBstRecipes","location":null,"url":null,"description":"#recipes #food","protected":false,"verified":false,"followers_count":1002,"friends_count":1921,"listed_count":31,"favourites_count":10,"statuses_count":16819,"created_at":"Mon Apr 18 08:42:54 +0000 2016","utc_offset":null,"time_zone":null,"geo_enabled":false,"lang":"es","contributors_enabled":false,"is_translator":false,"profile_background_color":"F5F8FA","profile_background_image_url":"","profile_background_image_url_https":"","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/721982885079687168\/iyt2CyCG_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/721982885079687168\/iyt2CyCG_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/721982324540370944\/1460969135","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"recipes","indices":[10,18]},{"text":"food","indices":[19,24]},{"text":"cooking","indices":[25,33]},{"text":"delicious","indices":[34,44]},{"text":"cook","indices":[45,50]},{"text":"recipe","indices":[51,58]}],"urls":[{"url":"https:\/\/t.co\/Zi00WzK3sT","expanded_url":"http:\/\/bit.ly\/2hpDgGG","display_url":"bit.ly\/2hpDgGG","indices":[82,105]}],"user_mentions":[],"symbols":[],"media":[{"id":806950356605435905,"id_str":"806950356605435905","indices":[106,129],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdEuzXgAE-FNb.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdEuzXgAE-FNb.jpg","url":"https:\/\/t.co\/wXIPRKeS3O","display_url":"pic.twitter.com\/wXIPRKeS3O","expanded_url":"https:\/\/twitter.com\/TheBstRecipes\/status\/806950360522911744\/photo\/1","type":"photo","sizes":{"large":{"w":700,"h":1057,"resize":"fit"},"medium":{"w":700,"h":1057,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"small":{"w":450,"h":680,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":806950356605435905,"id_str":"806950356605435905","indices":[106,129],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdEuzXgAE-FNb.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdEuzXgAE-FNb.jpg","url":"https:\/\/t.co\/wXIPRKeS3O","display_url":"pic.twitter.com\/wXIPRKeS3O","expanded_url":"https:\/\/twitter.com\/TheBstRecipes\/status\/806950360522911744\/photo\/1","type":"photo","sizes":{"large":{"w":700,"h":1057,"resize":"fit"},"medium":{"w":700,"h":1057,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"small":{"w":450,"h":680,"resize":"fit"}}}]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226933018"}
-{"created_at":"Thu Dec 08 19:55:33 +0000 2016","id":806950362196410368,"id_str":"806950362196410368","text":"RT @recipes_club: Please RT! #recipes #food #dessert Easy Cheesy Low-Carb Meatball Artichoke Casserole https:\/\/t.co\/ApFnFhYSos https:\/\/t.co\u2026","source":"\u003ca href=\"https:\/\/github.com\/GirishRawat\" rel=\"nofollow\"\u003eTwitter Food Bot\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":4005540733,"id_str":"4005540733","name":"Food Bot","screen_name":"thefoodbot","location":"Milky Way","url":null,"description":"Tweet any food and get a retweet with the food's nutritional values. Currently accepting requests by invitation only.","protected":false,"verified":false,"followers_count":2291,"friends_count":242,"listed_count":2674,"favourites_count":55840,"statuses_count":56114,"created_at":"Sat Oct 24 19:36:10 +0000 2015","utc_offset":null,"time_zone":null,"geo_enabled":false,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"FA743E","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/658005123507970048\/62pR-adB_normal.png","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/658005123507970048\/62pR-adB_normal.png","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/4005540733\/1445716325","default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"retweeted_status":{"created_at":"Thu Dec 08 19:54:54 +0000 2016","id":806950197867724800,"id_str":"806950197867724800","text":"Please RT! #recipes #food #dessert Easy Cheesy Low-Carb Meatball Artichoke Casserole https:\/\/t.co\/ApFnFhYSos https:\/\/t.co\/zHX4SG0ALm","display_text_range":[0,108],"source":"\u003ca href=\"http:\/\/recipesclub.org\/\" rel=\"nofollow\"\u003eRSS recipes_club\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":738526589802057728,"id_str":"738526589802057728","name":"Recipes Cuisine","screen_name":"recipes_club","location":"Los Angeles, CA","url":"http:\/\/recipesclub.org","description":"The best recipes and the tastiest desserts","protected":false,"verified":false,"followers_count":610,"friends_count":251,"listed_count":16,"favourites_count":13,"statuses_count":13900,"created_at":"Fri Jun 03 00:23:55 +0000 2016","utc_offset":3600,"time_zone":"Madrid","geo_enabled":false,"lang":"es","contributors_enabled":false,"is_translator":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"F58EA8","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/738531129301606400\/2DucLU5S_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/738531129301606400\/2DucLU5S_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/738526589802057728\/1464914623","default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":1,"favorite_count":0,"entities":{"hashtags":[{"text":"recipes","indices":[11,19]},{"text":"food","indices":[20,25]},{"text":"dessert","indices":[26,34]}],"urls":[{"url":"https:\/\/t.co\/ApFnFhYSos","expanded_url":"http:\/\/tinyurl.com\/h4ctt3t","display_url":"tinyurl.com\/h4ctt3t","indices":[85,108]}],"user_mentions":[],"symbols":[],"media":[{"id":806950194013175808,"id_str":"806950194013175808","indices":[109,132],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLc7RGWgAAZ-hd.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLc7RGWgAAZ-hd.jpg","url":"https:\/\/t.co\/zHX4SG0ALm","display_url":"pic.twitter.com\/zHX4SG0ALm","expanded_url":"https:\/\/twitter.com\/recipes_club\/status\/806950197867724800\/photo\/1","type":"photo","sizes":{"small":{"w":453,"h":680,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":550,"h":825,"resize":"fit"},"large":{"w":550,"h":825,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":806950194013175808,"id_str":"806950194013175808","indices":[109,132],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLc7RGWgAAZ-hd.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLc7RGWgAAZ-hd.jpg","url":"https:\/\/t.co\/zHX4SG0ALm","display_url":"pic.twitter.com\/zHX4SG0ALm","expanded_url":"https:\/\/twitter.com\/recipes_club\/status\/806950197867724800\/photo\/1","type":"photo","sizes":{"small":{"w":453,"h":680,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":550,"h":825,"resize":"fit"},"large":{"w":550,"h":825,"resize":"fit"}}}]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en"},"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"recipes","indices":[29,37]},{"text":"food","indices":[38,43]},{"text":"dessert","indices":[44,52]}],"urls":[{"url":"https:\/\/t.co\/ApFnFhYSos","expanded_url":"http:\/\/tinyurl.com\/h4ctt3t","display_url":"tinyurl.com\/h4ctt3t","indices":[103,126]}],"user_mentions":[{"screen_name":"recipes_club","name":"Recipes Cuisine","id":738526589802057728,"id_str":"738526589802057728","indices":[3,16]}],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226933417"}
-{"created_at":"Thu Dec 08 19:55:35 +0000 2016","id":806950369247035393,"id_str":"806950369247035393","text":"Please RT #recipes #food #cooking #delicious #cook #recipe Pig Roast Sides: Dragon Lingerie Succotash &amp;amp;. https:\/\/t.co\/UhyLp1pW2B","source":"\u003ca href=\"http:\/\/en.blogsderecetas.net\" rel=\"nofollow\"\u003erss feedfeed apli\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":2770641639,"id_str":"2770641639","name":"Best Recipes blogs","screen_name":"Bestrecipesblog","location":null,"url":"http:\/\/en.blogsderecetas.net","description":"#recipe #recipes #food","protected":false,"verified":false,"followers_count":24255,"friends_count":12452,"listed_count":218,"favourites_count":34,"statuses_count":97356,"created_at":"Mon Sep 15 01:33:34 +0000 2014","utc_offset":-28800,"time_zone":"Pacific Time (US & Canada)","geo_enabled":false,"lang":"es","contributors_enabled":false,"is_translator":false,"profile_background_color":"C0DEED","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/784526704094154754\/K-cS4nOF_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/784526704094154754\/K-cS4nOF_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/2770641639\/1442373936","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"recipes","indices":[10,18]},{"text":"food","indices":[19,24]},{"text":"cooking","indices":[25,33]},{"text":"delicious","indices":[34,44]},{"text":"cook","indices":[45,50]},{"text":"recipe","indices":[51,58]}],"urls":[{"url":"https:\/\/t.co\/UhyLp1pW2B","expanded_url":"http:\/\/bit.ly\/2hpNKGk","display_url":"bit.ly\/2hpNKGk","indices":[113,136]}],"user_mentions":[],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226935098"}
-{"created_at":"Thu Dec 08 19:55:35 +0000 2016","id":806950370744401920,"id_str":"806950370744401920","text":"See &amp; this \ud83d\udc47\ud83d\udc47\nhttps:\/\/t.co\/zggZFeT3qq \n\n&amp; check my profile link \ud83d\udc4c\n#cook #foodie #foodporn #food #tasty #cooking\u2026 https:\/\/t.co\/nT1D4ohvYH","display_text_range":[0,140],"source":"\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e","truncated":true,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":244852930,"id_str":"244852930","name":"chef_Achilles","screen_name":"chef_Achilles","location":"if u like myfoodpics.follow me","url":"http:\/\/www.facebook.com\/spitiki.gastronomia","description":"http:\/\/lm.facebook.com\/l.php?u=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_pDUe3DFYZM%26sns%3Dem&h=2AQHTff_9&enc=AZNRiFDTQ6junEK6I8AQM-_3ftqmAM2f8nwwgURHEtZjM7j","protected":false,"verified":false,"followers_count":241,"friends_count":75,"listed_count":66,"favourites_count":6325,"statuses_count":1119,"created_at":"Sun Jan 30 08:32:49 +0000 2011","utc_offset":7200,"time_zone":"Athens","geo_enabled":true,"lang":"el","contributors_enabled":false,"is_translator":false,"profile_background_color":"C0DEED","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/801088631867842560\/a57nPrQj_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/801088631867842560\/a57nPrQj_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/244852930\/1406453339","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"extended_tweet":{"full_text":"See &amp; this \ud83d\udc47\ud83d\udc47\nhttps:\/\/t.co\/zggZFeT3qq \n\n&amp; check my profile link \ud83d\udc4c\n#cook #foodie #foodporn #food #tasty #cooking #fishing #Hunting #fish #fit https:\/\/t.co\/qOZP9Ev6qI","display_text_range":[0,148],"entities":{"hashtags":[{"text":"cook","indices":[74,79]},{"text":"foodie","indices":[80,87]},{"text":"foodporn","indices":[88,97]},{"text":"food","indices":[98,103]},{"text":"tasty","indices":[104,110]},{"text":"cooking","indices":[111,119]},{"text":"fishing","indices":[120,128]},{"text":"Hunting","indices":[129,137]},{"text":"fish","indices":[138,143]},{"text":"fit","indices":[144,148]}],"urls":[{"url":"https:\/\/t.co\/zggZFeT3qq","expanded_url":"http:\/\/www.youtube.com\/watch?v=_pDUe3DFYZM&sns=em","display_url":"youtube.com\/watch?v=_pDUe3\u2026","indices":[18,41]}],"user_mentions":[],"symbols":[],"media":[{"id":806950344144121856,"id_str":"806950344144121856","indices":[149,172],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdEAYW8AAoT_L.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdEAYW8AAoT_L.jpg","url":"https:\/\/t.co\/qOZP9Ev6qI","display_url":"pic.twitter.com\/qOZP9Ev6qI","expanded_url":"https:\/\/twitter.com\/chef_Achilles\/status\/806950370744401920\/photo\/1","type":"photo","sizes":{"thumb":{"w":150,"h":150,"resize":"crop"},"large":{"w":2048,"h":1536,"resize":"fit"},"medium":{"w":1200,"h":900,"resize":"fit"},"small":{"w":680,"h":510,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":806950344144121856,"id_str":"806950344144121856","indices":[149,172],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdEAYW8AAoT_L.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdEAYW8AAoT_L.jpg","url":"https:\/\/t.co\/qOZP9Ev6qI","display_url":"pic.twitter.com\/qOZP9Ev6qI","expanded_url":"https:\/\/twitter.com\/chef_Achilles\/status\/806950370744401920\/photo\/1","type":"photo","sizes":{"thumb":{"w":150,"h":150,"resize":"crop"},"large":{"w":2048,"h":1536,"resize":"fit"},"medium":{"w":1200,"h":900,"resize":"fit"},"small":{"w":680,"h":510,"resize":"fit"}}}]}},"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"cook","indices":[74,79]},{"text":"foodie","indices":[80,87]},{"text":"foodporn","indices":[88,97]},{"text":"food","indices":[98,103]},{"text":"tasty","indices":[104,110]},{"text":"cooking","indices":[111,119]}],"urls":[{"url":"https:\/\/t.co\/zggZFeT3qq","expanded_url":"http:\/\/www.youtube.com\/watch?v=_pDUe3DFYZM&sns=em","display_url":"youtube.com\/watch?v=_pDUe3\u2026","indices":[18,41]},{"url":"https:\/\/t.co\/nT1D4ohvYH","expanded_url":"https:\/\/twitter.com\/i\/web\/status\/806950370744401920","display_url":"twitter.com\/i\/web\/status\/8\u2026","indices":[121,144]}],"user_mentions":[],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226935455"}
-{"created_at":"Thu Dec 08 19:55:36 +0000 2016","id":806950376184446977,"id_str":"806950376184446977","text":"Place au pot collaboratif \u00e0 pr\u00e9sent pour poursuivre ce #dfclub et discuter #food, tech, innovation... https:\/\/t.co\/6C8dNerSOQ","display_text_range":[0,101],"source":"\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":1443117636,"id_str":"1443117636","name":"DigitalFoodLab","screen_name":"digitalfoodlab","location":"Paris, France","url":"http:\/\/www.digitalfoodlab.com","description":"#Startups & #FoodTech. Strat\u00e9gie - Marketing - Contenu - Innovation. Nous contribuons au de\u0301veloppement des entreprises innovantes de l\u2019alimentation.","protected":false,"verified":false,"followers_count":3020,"friends_count":200,"listed_count":217,"favourites_count":293,"statuses_count":1128,"created_at":"Mon May 20 07:48:58 +0000 2013","utc_offset":3600,"time_zone":"Paris","geo_enabled":true,"lang":"fr","contributors_enabled":false,"is_translator":false,"profile_background_color":"131516","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif","profile_background_tile":true,"profile_link_color":"009999","profile_sidebar_border_color":"EEEEEE","profile_sidebar_fill_color":"EFEFEF","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/378800000451837725\/ca8650d7f9b2e4784113a76070658b4a_normal.png","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/378800000451837725\/ca8650d7f9b2e4784113a76070658b4a_normal.png","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/1443117636\/1474458725","default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"dfclub","indices":[55,62]},{"text":"food","indices":[75,80]}],"urls":[],"user_mentions":[],"symbols":[],"media":[{"id":806950316222672896,"id_str":"806950316222672896","indices":[102,125],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdCYXXcAARsdX.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdCYXXcAARsdX.jpg","url":"https:\/\/t.co\/6C8dNerSOQ","display_url":"pic.twitter.com\/6C8dNerSOQ","expanded_url":"https:\/\/twitter.com\/digitalfoodlab\/status\/806950376184446977\/photo\/1","type":"photo","sizes":{"medium":{"w":1024,"h":576,"resize":"fit"},"small":{"w":680,"h":383,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"large":{"w":1024,"h":576,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":806950316222672896,"id_str":"806950316222672896","indices":[102,125],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdCYXXcAARsdX.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdCYXXcAARsdX.jpg","url":"https:\/\/t.co\/6C8dNerSOQ","display_url":"pic.twitter.com\/6C8dNerSOQ","expanded_url":"https:\/\/twitter.com\/digitalfoodlab\/status\/806950376184446977\/photo\/1","type":"photo","sizes":{"medium":{"w":1024,"h":576,"resize":"fit"},"small":{"w":680,"h":383,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"large":{"w":1024,"h":576,"resize":"fit"}}}]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"fr","timestamp_ms":"1481226936752"}
-{"created_at":"Thu Dec 08 19:55:37 +0000 2016","id":806950377321013248,"id_str":"806950377321013248","text":"\"#Rice Krispies treat #icecream taco\" #food #cooking #gourmet #deliciousfood https:\/\/t.co\/cI0nJwp0FO","display_text_range":[0,76],"source":"\u003ca href=\"http:\/\/www.google.com\" rel=\"nofollow\"\u003eHeatherMcCarter\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":790984239567237120,"id_str":"790984239567237120","name":"Heather McCarter","screen_name":"Delicious_Feed","location":null,"url":null,"description":"Food and other delicious things!","protected":false,"verified":false,"followers_count":369,"friends_count":26,"listed_count":112,"favourites_count":0,"statuses_count":8325,"created_at":"Tue Oct 25 18:31:53 +0000 2016","utc_offset":3600,"time_zone":"Stockholm","geo_enabled":false,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"F5F8FA","profile_background_image_url":"","profile_background_image_url_https":"","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/796522017235369993\/hYzHN_5I_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/796522017235369993\/hYzHN_5I_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/790984239567237120\/1477420919","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"Rice","indices":[1,6]},{"text":"icecream","indices":[22,31]},{"text":"food","indices":[38,43]},{"text":"cooking","indices":[44,52]},{"text":"gourmet","indices":[53,61]},{"text":"deliciousfood","indices":[62,76]}],"urls":[],"user_mentions":[],"symbols":[],"media":[{"id":806950367137239040,"id_str":"806950367137239040","indices":[77,100],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdFWCWEAA5byH.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdFWCWEAA5byH.jpg","url":"https:\/\/t.co\/cI0nJwp0FO","display_url":"pic.twitter.com\/cI0nJwp0FO","expanded_url":"https:\/\/twitter.com\/Delicious_Feed\/status\/806950377321013248\/photo\/1","type":"photo","sizes":{"small":{"w":640,"h":640,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":640,"h":640,"resize":"fit"},"large":{"w":640,"h":640,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":806950367137239040,"id_str":"806950367137239040","indices":[77,100],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdFWCWEAA5byH.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdFWCWEAA5byH.jpg","url":"https:\/\/t.co\/cI0nJwp0FO","display_url":"pic.twitter.com\/cI0nJwp0FO","expanded_url":"https:\/\/twitter.com\/Delicious_Feed\/status\/806950377321013248\/photo\/1","type":"photo","sizes":{"small":{"w":640,"h":640,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":640,"h":640,"resize":"fit"},"large":{"w":640,"h":640,"resize":"fit"}}}]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226937023"}
-{"created_at":"Thu Dec 08 19:55:37 +0000 2016","id":806950380902891520,"id_str":"806950380902891520","text":"Take a look at the newly opened organic restaurant @FBCrestaurant at @goodwood_hotel Open to the public daily.\u2026 https:\/\/t.co\/GbVTJreP1J","display_text_range":[0,140],"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","truncated":true,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":912593791,"id_str":"912593791","name":"MN West Sussex","screen_name":"MNWestSussex","location":"West Sussex","url":"http:\/\/local.mumsnet.com\/west-sussex","description":"Greetings! We are the people bringing all of West Sussex into one space, creating meet ups, chat, business listings, competitions, what's on and much more!","protected":false,"verified":false,"followers_count":7115,"friends_count":1787,"listed_count":38,"favourites_count":462,"statuses_count":1849,"created_at":"Mon Oct 29 14:46:40 +0000 2012","utc_offset":null,"time_zone":null,"geo_enabled":false,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"C0DEED","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/378800000594892139\/a6f2c397f4187eb6c27b5538b0d23da0_normal.png","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/378800000594892139\/a6f2c397f4187eb6c27b5538b0d23da0_normal.png","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/912593791\/1384513063","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"quoted_status_id":802116355436740608,"quoted_status_id_str":"802116355436740608","quoted_status":{"created_at":"Fri Nov 25 11:46:56 +0000 2016","id":802116355436740608,"id_str":"802116355436740608","text":"Take a look at our new sustainable restaurant, open for lunch and dinner, 7 days a week #farmerbutcherchef #organic\u2026 https:\/\/t.co\/8Yh3VySQYN","display_text_range":[0,140],"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","truncated":true,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":788761358267478016,"id_str":"788761358267478016","name":"Farmer Butcher Chef","screen_name":"FBCrestaurant","location":"Chichester, England","url":null,"description":"NOW OPEN! Goodwood\u2019s brand new restaurant where all of our produce is farmed, butchered and cooked on site. You\u2019ll travel farther than our produce.","protected":false,"verified":false,"followers_count":78,"friends_count":20,"listed_count":3,"favourites_count":7,"statuses_count":24,"created_at":"Wed Oct 19 15:18:57 +0000 2016","utc_offset":-28800,"time_zone":"Pacific Time (US & Canada)","geo_enabled":false,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"ABB8C2","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/791294920535474177\/AAR_ykeY_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/791294920535474177\/AAR_ykeY_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/788761358267478016\/1477494445","default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"extended_tweet":{"full_text":"Take a look at our new sustainable restaurant, open for lunch and dinner, 7 days a week #farmerbutcherchef #organic #goodwood https:\/\/t.co\/2b1YaXSpYH","display_text_range":[0,125],"entities":{"hashtags":[{"text":"farmerbutcherchef","indices":[88,106]},{"text":"organic","indices":[107,115]},{"text":"goodwood","indices":[116,125]}],"urls":[],"user_mentions":[],"symbols":[],"media":[{"id":802116304329183233,"id_str":"802116304329183233","indices":[126,149],"media_url":"http:\/\/pbs.twimg.com\/media\/CyGwh2wXEAEBvpL.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CyGwh2wXEAEBvpL.jpg","url":"https:\/\/t.co\/2b1YaXSpYH","display_url":"pic.twitter.com\/2b1YaXSpYH","expanded_url":"https:\/\/twitter.com\/FBCrestaurant\/status\/802116355436740608\/photo\/1","type":"photo","sizes":{"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":1200,"h":836,"resize":"fit"},"large":{"w":1200,"h":836,"resize":"fit"},"small":{"w":680,"h":474,"resize":"fit"}}},{"id":802116304329183232,"id_str":"802116304329183232","indices":[126,149],"media_url":"http:\/\/pbs.twimg.com\/media\/CyGwh2wXEAAn4CS.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CyGwh2wXEAAn4CS.jpg","url":"https:\/\/t.co\/2b1YaXSpYH","display_url":"pic.twitter.com\/2b1YaXSpYH","expanded_url":"https:\/\/twitter.com\/FBCrestaurant\/status\/802116355436740608\/photo\/1","type":"photo","sizes":{"medium":{"w":1200,"h":821,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"large":{"w":1200,"h":821,"resize":"fit"},"small":{"w":680,"h":465,"resize":"fit"}}},{"id":802116304324952065,"id_str":"802116304324952065","indices":[126,149],"media_url":"http:\/\/pbs.twimg.com\/media\/CyGwh2vWgAE16OL.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CyGwh2vWgAE16OL.jpg","url":"https:\/\/t.co\/2b1YaXSpYH","display_url":"pic.twitter.com\/2b1YaXSpYH","expanded_url":"https:\/\/twitter.com\/FBCrestaurant\/status\/802116355436740608\/photo\/1","type":"photo","sizes":{"medium":{"w":1200,"h":871,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"large":{"w":1200,"h":871,"resize":"fit"},"small":{"w":680,"h":494,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":802116304329183233,"id_str":"802116304329183233","indices":[126,149],"media_url":"http:\/\/pbs.twimg.com\/media\/CyGwh2wXEAEBvpL.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CyGwh2wXEAEBvpL.jpg","url":"https:\/\/t.co\/2b1YaXSpYH","display_url":"pic.twitter.com\/2b1YaXSpYH","expanded_url":"https:\/\/twitter.com\/FBCrestaurant\/status\/802116355436740608\/photo\/1","type":"photo","sizes":{"thumb":{"w":150,"h":150,"resize":"crop"},"medium":{"w":1200,"h":836,"resize":"fit"},"large":{"w":1200,"h":836,"resize":"fit"},"small":{"w":680,"h":474,"resize":"fit"}}},{"id":802116304329183232,"id_str":"802116304329183232","indices":[126,149],"media_url":"http:\/\/pbs.twimg.com\/media\/CyGwh2wXEAAn4CS.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CyGwh2wXEAAn4CS.jpg","url":"https:\/\/t.co\/2b1YaXSpYH","display_url":"pic.twitter.com\/2b1YaXSpYH","expanded_url":"https:\/\/twitter.com\/FBCrestaurant\/status\/802116355436740608\/photo\/1","type":"photo","sizes":{"medium":{"w":1200,"h":821,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"large":{"w":1200,"h":821,"resize":"fit"},"small":{"w":680,"h":465,"resize":"fit"}}},{"id":802116304324952065,"id_str":"802116304324952065","indices":[126,149],"media_url":"http:\/\/pbs.twimg.com\/media\/CyGwh2vWgAE16OL.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CyGwh2vWgAE16OL.jpg","url":"https:\/\/t.co\/2b1YaXSpYH","display_url":"pic.twitter.com\/2b1YaXSpYH","expanded_url":"https:\/\/twitter.com\/FBCrestaurant\/status\/802116355436740608\/photo\/1","type":"photo","sizes":{"medium":{"w":1200,"h":871,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"large":{"w":1200,"h":871,"resize":"fit"},"small":{"w":680,"h":494,"resize":"fit"}}}]}},"retweet_count":9,"favorite_count":20,"entities":{"hashtags":[{"text":"farmerbutcherchef","indices":[88,106]},{"text":"organic","indices":[107,115]}],"urls":[{"url":"https:\/\/t.co\/8Yh3VySQYN","expanded_url":"https:\/\/twitter.com\/i\/web\/status\/802116355436740608","display_url":"twitter.com\/i\/web\/status\/8\u2026","indices":[117,140]}],"user_mentions":[],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en"},"is_quote_status":true,"extended_tweet":{"full_text":"Take a look at the newly opened organic restaurant @FBCrestaurant at @goodwood_hotel Open to the public daily. #food #supportlocal https:\/\/t.co\/KfUhWU9O4p","display_text_range":[0,130],"entities":{"hashtags":[{"text":"food","indices":[111,116]},{"text":"supportlocal","indices":[117,130]}],"urls":[{"url":"https:\/\/t.co\/KfUhWU9O4p","expanded_url":"https:\/\/twitter.com\/FBCrestaurant\/status\/802116355436740608","display_url":"twitter.com\/FBCrestaurant\/\u2026","indices":[131,154]}],"user_mentions":[{"screen_name":"FBCrestaurant","name":"Farmer Butcher Chef","id":788761358267478016,"id_str":"788761358267478016","indices":[51,65]},{"screen_name":"goodwood_hotel","name":"The Goodwood Hotel","id":3402927724,"id_str":"3402927724","indices":[69,84]}],"symbols":[]}},"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[],"urls":[{"url":"https:\/\/t.co\/GbVTJreP1J","expanded_url":"https:\/\/twitter.com\/i\/web\/status\/806950380902891520","display_url":"twitter.com\/i\/web\/status\/8\u2026","indices":[112,135]}],"user_mentions":[{"screen_name":"FBCrestaurant","name":"Farmer Butcher Chef","id":788761358267478016,"id_str":"788761358267478016","indices":[51,65]},{"screen_name":"goodwood_hotel","name":"The Goodwood Hotel","id":3402927724,"id_str":"3402927724","indices":[69,84]}],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226937877"}
-{"created_at":"Thu Dec 08 19:55:38 +0000 2016","id":806950383616561153,"id_str":"806950383616561153","text":"teen gallery free nude #food in ass porn https:\/\/t.co\/6i4a3d9xeT","source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":814786465,"id_str":"814786465","name":"Isabella Martinez","screen_name":"TC_Berkay_","location":null,"url":null,"description":null,"protected":false,"verified":false,"followers_count":4,"friends_count":19,"listed_count":0,"favourites_count":1,"statuses_count":5154,"created_at":"Mon Sep 10 08:42:36 +0000 2012","utc_offset":10800,"time_zone":"Baghdad","geo_enabled":false,"lang":"tr","contributors_enabled":false,"is_translator":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/pbs.twimg.com\/profile_background_images\/344918034409862064\/8b9ca443d0a1a7b9f45f193bed6b823d.jpeg","profile_background_image_url_https":"https:\/\/pbs.twimg.com\/profile_background_images\/344918034409862064\/8b9ca443d0a1a7b9f45f193bed6b823d.jpeg","profile_background_tile":true,"profile_link_color":"000000","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/804296161423228929\/U9J_EeSQ_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/804296161423228929\/U9J_EeSQ_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/814786465\/1371281065","default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"food","indices":[23,28]}],"urls":[{"url":"https:\/\/t.co\/6i4a3d9xeT","expanded_url":"http:\/\/3kpe.libertyhvs.xyz","display_url":"3kpe.libertyhvs.xyz","indices":[41,64]}],"user_mentions":[],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226938524"}
-{"created_at":"Thu Dec 08 19:55:41 +0000 2016","id":806950395893469184,"id_str":"806950395893469184","text":"Please RT!! #recipes #food #cooking #delicious #cook #recipe Benefits of Cactus Smoothies https:\/\/t.co\/CsWPiRpxdb https:\/\/t.co\/B5xdMR3pIA","display_text_range":[0,113],"source":"\u003ca href=\"http:\/\/en.blogsderecetas.net\" rel=\"nofollow\"\u003erss feed recipes blogs\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":2289792698,"id_str":"2289792698","name":"cooking and recipes","screen_name":"recipesblogs","location":null,"url":null,"description":null,"protected":false,"verified":false,"followers_count":32447,"friends_count":28382,"listed_count":165,"favourites_count":149,"statuses_count":65392,"created_at":"Mon Jan 13 14:47:41 +0000 2014","utc_offset":3600,"time_zone":"Madrid","geo_enabled":false,"lang":"es","contributors_enabled":false,"is_translator":false,"profile_background_color":"C0DEED","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/422753932335939584\/ewdhTGm0_normal.jpeg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/422753932335939584\/ewdhTGm0_normal.jpeg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/2289792698\/1389627367","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"recipes","indices":[12,20]},{"text":"food","indices":[21,26]},{"text":"cooking","indices":[27,35]},{"text":"delicious","indices":[36,46]},{"text":"cook","indices":[47,52]},{"text":"recipe","indices":[53,60]}],"urls":[{"url":"https:\/\/t.co\/CsWPiRpxdb","expanded_url":"http:\/\/bit.ly\/2hpJcj7","display_url":"bit.ly\/2hpJcj7","indices":[90,113]}],"user_mentions":[],"symbols":[],"media":[{"id":806950392726687746,"id_str":"806950392726687746","indices":[114,137],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdG1XWEAI4N0h.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdG1XWEAI4N0h.jpg","url":"https:\/\/t.co\/B5xdMR3pIA","display_url":"pic.twitter.com\/B5xdMR3pIA","expanded_url":"https:\/\/twitter.com\/recipesblogs\/status\/806950395893469184\/photo\/1","type":"photo","sizes":{"large":{"w":596,"h":900,"resize":"fit"},"medium":{"w":596,"h":900,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"small":{"w":450,"h":680,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":806950392726687746,"id_str":"806950392726687746","indices":[114,137],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdG1XWEAI4N0h.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdG1XWEAI4N0h.jpg","url":"https:\/\/t.co\/B5xdMR3pIA","display_url":"pic.twitter.com\/B5xdMR3pIA","expanded_url":"https:\/\/twitter.com\/recipesblogs\/status\/806950395893469184\/photo\/1","type":"photo","sizes":{"large":{"w":596,"h":900,"resize":"fit"},"medium":{"w":596,"h":900,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"small":{"w":450,"h":680,"resize":"fit"}}}]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226941451"}
-{"created_at":"Thu Dec 08 19:55:45 +0000 2016","id":806950411101937665,"id_str":"806950411101937665","text":"See &amp; this \ud83d\udc47\ud83d\udc47\nhttps:\/\/t.co\/zggZFeT3qq \n\n&amp; check my profile link \ud83d\udc4c\n#cook #foodie #foodporn #food #tasty #cooking\u2026 https:\/\/t.co\/RVQH7R7Cx6","display_text_range":[0,140],"source":"\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e","truncated":true,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":244852930,"id_str":"244852930","name":"chef_Achilles","screen_name":"chef_Achilles","location":"if u like myfoodpics.follow me","url":"http:\/\/www.facebook.com\/spitiki.gastronomia","description":"http:\/\/lm.facebook.com\/l.php?u=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_pDUe3DFYZM%26sns%3Dem&h=2AQHTff_9&enc=AZNRiFDTQ6junEK6I8AQM-_3ftqmAM2f8nwwgURHEtZjM7j","protected":false,"verified":false,"followers_count":241,"friends_count":75,"listed_count":66,"favourites_count":6325,"statuses_count":1120,"created_at":"Sun Jan 30 08:32:49 +0000 2011","utc_offset":7200,"time_zone":"Athens","geo_enabled":true,"lang":"el","contributors_enabled":false,"is_translator":false,"profile_background_color":"C0DEED","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/801088631867842560\/a57nPrQj_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/801088631867842560\/a57nPrQj_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/244852930\/1406453339","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"extended_tweet":{"full_text":"See &amp; this \ud83d\udc47\ud83d\udc47\nhttps:\/\/t.co\/zggZFeT3qq \n\n&amp; check my profile link \ud83d\udc4c\n#cook #foodie #foodporn #food #tasty #cooking #fishing #Hunting #fish #fit https:\/\/t.co\/BzTYy7FnbQ","display_text_range":[0,148],"entities":{"hashtags":[{"text":"cook","indices":[74,79]},{"text":"foodie","indices":[80,87]},{"text":"foodporn","indices":[88,97]},{"text":"food","indices":[98,103]},{"text":"tasty","indices":[104,110]},{"text":"cooking","indices":[111,119]},{"text":"fishing","indices":[120,128]},{"text":"Hunting","indices":[129,137]},{"text":"fish","indices":[138,143]},{"text":"fit","indices":[144,148]}],"urls":[{"url":"https:\/\/t.co\/zggZFeT3qq","expanded_url":"http:\/\/www.youtube.com\/watch?v=_pDUe3DFYZM&sns=em","display_url":"youtube.com\/watch?v=_pDUe3\u2026","indices":[18,41]}],"user_mentions":[],"symbols":[],"media":[{"id":806950389060947972,"id_str":"806950389060947972","indices":[149,172],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdGntXUAQiE7U.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdGntXUAQiE7U.jpg","url":"https:\/\/t.co\/BzTYy7FnbQ","display_url":"pic.twitter.com\/BzTYy7FnbQ","expanded_url":"https:\/\/twitter.com\/chef_Achilles\/status\/806950411101937665\/photo\/1","type":"photo","sizes":{"thumb":{"w":150,"h":150,"resize":"crop"},"large":{"w":2048,"h":1536,"resize":"fit"},"medium":{"w":1200,"h":900,"resize":"fit"},"small":{"w":680,"h":510,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":806950389060947972,"id_str":"806950389060947972","indices":[149,172],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdGntXUAQiE7U.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdGntXUAQiE7U.jpg","url":"https:\/\/t.co\/BzTYy7FnbQ","display_url":"pic.twitter.com\/BzTYy7FnbQ","expanded_url":"https:\/\/twitter.com\/chef_Achilles\/status\/806950411101937665\/photo\/1","type":"photo","sizes":{"thumb":{"w":150,"h":150,"resize":"crop"},"large":{"w":2048,"h":1536,"resize":"fit"},"medium":{"w":1200,"h":900,"resize":"fit"},"small":{"w":680,"h":510,"resize":"fit"}}}]}},"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"cook","indices":[74,79]},{"text":"foodie","indices":[80,87]},{"text":"foodporn","indices":[88,97]},{"text":"food","indices":[98,103]},{"text":"tasty","indices":[104,110]},{"text":"cooking","indices":[111,119]}],"urls":[{"url":"https:\/\/t.co\/zggZFeT3qq","expanded_url":"http:\/\/www.youtube.com\/watch?v=_pDUe3DFYZM&sns=em","display_url":"youtube.com\/watch?v=_pDUe3\u2026","indices":[18,41]},{"url":"https:\/\/t.co\/RVQH7R7Cx6","expanded_url":"https:\/\/twitter.com\/i\/web\/status\/806950411101937665","display_url":"twitter.com\/i\/web\/status\/8\u2026","indices":[121,144]}],"user_mentions":[],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226945077"}
-{"created_at":"Thu Dec 08 19:55:53 +0000 2016","id":806950444727730176,"id_str":"806950444727730176","text":"Heading to Chester Fried Chicken? Want 10 free Lyft rides? &lt; Promotional code: PINS &gt; #eat #food #restaurant","source":"\u003ca href=\"https:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003eSocialOomph\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":792486715445407746,"id_str":"792486715445407746","name":"Deals Deals Deals","screen_name":"SpunkyHotDeals","location":null,"url":null,"description":null,"protected":false,"verified":false,"followers_count":40,"friends_count":21,"listed_count":100,"favourites_count":0,"statuses_count":16546,"created_at":"Sat Oct 29 22:02:11 +0000 2016","utc_offset":null,"time_zone":null,"geo_enabled":false,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"F5F8FA","profile_background_image_url":"","profile_background_image_url_https":"","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/792498805333786624\/9Vy5Oe8J_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/792498805333786624\/9Vy5Oe8J_normal.jpg","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"eat","indices":[92,96]},{"text":"food","indices":[97,102]},{"text":"restaurant","indices":[103,114]}],"urls":[],"user_mentions":[],"symbols":[]},"favorited":false,"retweeted":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226953094"}
-{"created_at":"Thu Dec 08 19:55:53 +0000 2016","id":806950446459928576,"id_str":"806950446459928576","text":"Love Marie Callender's? Get 10 free rides from Lyft so you can go free. Use Lyft Coupon Code: DEX #restaurant #food #eat #love","source":"\u003ca href=\"https:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003eSocialOomph\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":792397265109475332,"id_str":"792397265109475332","name":"Amazing Offers","screen_name":"ZBestDeals","location":null,"url":null,"description":null,"protected":false,"verified":false,"followers_count":47,"friends_count":50,"listed_count":126,"favourites_count":0,"statuses_count":17989,"created_at":"Sat Oct 29 16:06:44 +0000 2016","utc_offset":null,"time_zone":null,"geo_enabled":false,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"F5F8FA","profile_background_image_url":"","profile_background_image_url_https":"","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/792397711874134016\/J8kgo1jo_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/792397711874134016\/J8kgo1jo_normal.jpg","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"restaurant","indices":[98,109]},{"text":"food","indices":[110,115]},{"text":"eat","indices":[116,120]},{"text":"love","indices":[121,126]}],"urls":[],"user_mentions":[],"symbols":[]},"favorited":false,"retweeted":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226953507"}
-{"created_at":"Thu Dec 08 19:55:55 +0000 2016","id":806950454592552960,"id_str":"806950454592552960","text":"#britain #delicious #unshaved #ios #job #euro #toys \n\n --&gt;&gt; https:\/\/t.co\/NL3rZkmbhl https:\/\/t.co\/qnCQHxUtaE","display_text_range":[0,89],"source":"\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":722787763020525568,"id_str":"722787763020525568","name":"Claire Piper","screen_name":"hardma_fjodorov","location":null,"url":null,"description":null,"protected":false,"verified":false,"followers_count":2,"friends_count":0,"listed_count":39,"favourites_count":0,"statuses_count":962,"created_at":"Wed Apr 20 14:03:26 +0000 2016","utc_offset":null,"time_zone":null,"geo_enabled":false,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"F5F8FA","profile_background_image_url":"","profile_background_image_url_https":"","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/789435025150337025\/ngxNSU5-_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/789435025150337025\/ngxNSU5-_normal.jpg","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"britain","indices":[0,8]},{"text":"delicious","indices":[9,19]},{"text":"unshaved","indices":[20,29]},{"text":"ios","indices":[30,34]},{"text":"job","indices":[35,39]},{"text":"euro","indices":[40,45]},{"text":"toys","indices":[46,51]}],"urls":[{"url":"https:\/\/t.co\/NL3rZkmbhl","expanded_url":"http:\/\/bit.ly\/2gO6GC3","display_url":"bit.ly\/2gO6GC3","indices":[66,89]}],"user_mentions":[],"symbols":[],"media":[{"id":806950448318005249,"id_str":"806950448318005249","indices":[90,113],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdKEdWQAEVuBx.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdKEdWQAEVuBx.jpg","url":"https:\/\/t.co\/qnCQHxUtaE","display_url":"pic.twitter.com\/qnCQHxUtaE","expanded_url":"https:\/\/twitter.com\/hardma_fjodorov\/status\/806950454592552960\/photo\/1","type":"photo","sizes":{"large":{"w":564,"h":751,"resize":"fit"},"medium":{"w":564,"h":751,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"small":{"w":511,"h":680,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":806950448318005249,"id_str":"806950448318005249","indices":[90,113],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdKEdWQAEVuBx.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdKEdWQAEVuBx.jpg","url":"https:\/\/t.co\/qnCQHxUtaE","display_url":"pic.twitter.com\/qnCQHxUtaE","expanded_url":"https:\/\/twitter.com\/hardma_fjodorov\/status\/806950454592552960\/photo\/1","type":"photo","sizes":{"large":{"w":564,"h":751,"resize":"fit"},"medium":{"w":564,"h":751,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"small":{"w":511,"h":680,"resize":"fit"}}}]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"und","timestamp_ms":"1481226955446"}
-{"created_at":"Thu Dec 08 19:55:56 +0000 2016","id":806950459013349376,"id_str":"806950459013349376","text":"Winters supper\u2744\ufe0f #health #motivation #healthy #healthyliving #healthychoices #exercise #food\u2026 https:\/\/t.co\/Kr5ScIUIb9","source":"\u003ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003eInstagram\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":51004906,"id_str":"51004906","name":"KB","screen_name":"KikiBlues","location":"UK and Australia","url":"http:\/\/minesapintofcoco.blogspot.co.uk","description":"Healthy Life in the UK, but will travel for sun. Writer. Optimist. The two are not connected.","protected":false,"verified":false,"followers_count":471,"friends_count":483,"listed_count":56,"favourites_count":65,"statuses_count":12222,"created_at":"Fri Jun 26 10:27:57 +0000 2009","utc_offset":0,"time_zone":"London","geo_enabled":false,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/pbs.twimg.com\/profile_background_images\/145684483\/b11-5.png","profile_background_image_url_https":"https:\/\/pbs.twimg.com\/profile_background_images\/145684483\/b11-5.png","profile_background_tile":true,"profile_link_color":"4A913C","profile_sidebar_border_color":"888888","profile_sidebar_fill_color":"00DCE0","profile_text_color":"888888","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/590812711\/nekonobasu_c13_normal.png","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/590812711\/nekonobasu_c13_normal.png","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/51004906\/1411373507","default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"health","indices":[17,24]},{"text":"motivation","indices":[25,36]},{"text":"healthy","indices":[37,45]},{"text":"healthyliving","indices":[46,60]},{"text":"healthychoices","indices":[61,76]},{"text":"exercise","indices":[77,86]},{"text":"food","indices":[87,92]}],"urls":[{"url":"https:\/\/t.co\/Kr5ScIUIb9","expanded_url":"https:\/\/www.instagram.com\/p\/BNxMcfCheZc\/","display_url":"instagram.com\/p\/BNxMcfCheZc\/","indices":[94,117]}],"user_mentions":[],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226956500"}
-{"created_at":"Thu Dec 08 19:55:59 +0000 2016","id":806950470640107520,"id_str":"806950470640107520","text":"@2Hats1Mike but did you order a stack?? That's the nuts at @Moes_HQ. So good. #delicious","display_text_range":[12,88],"source":"\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":806944842148442116,"in_reply_to_status_id_str":"806944842148442116","in_reply_to_user_id":107830074,"in_reply_to_user_id_str":"107830074","in_reply_to_screen_name":"2Hats1Mike","user":{"id":38985424,"id_str":"38985424","name":"Josh G (SirGiant)","screen_name":"RealJoshuaGiant","location":"Staten Island \/ Manhattan #NYC","url":"http:\/\/www.GiantTheArtist.com","description":"#DFS | #Music Artist \ud83c\udfb6 (GiANT, The Artist \u00a9) - #OCEAN EP on @applemusic |                                             *All views\/tweets are my own*","protected":false,"verified":false,"followers_count":7799,"friends_count":607,"listed_count":61,"favourites_count":2821,"statuses_count":1602,"created_at":"Sun May 10 03:16:19 +0000 2009","utc_offset":-18000,"time_zone":"Eastern Time (US & Canada)","geo_enabled":true,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif","profile_background_tile":false,"profile_link_color":"4A913C","profile_sidebar_border_color":"000000","profile_sidebar_fill_color":"000000","profile_text_color":"000000","profile_use_background_image":false,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/805102632402583552\/JX6I1nPd_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/805102632402583552\/JX6I1nPd_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/38985424\/1471213916","default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"delicious","indices":[78,88]}],"urls":[],"user_mentions":[{"screen_name":"2Hats1Mike","name":"Michael Leone","id":107830074,"id_str":"107830074","indices":[0,11]},{"screen_name":"Moes_HQ","name":"Moe'sSouthwestGrill","id":84075278,"id_str":"84075278","indices":[59,67]}],"symbols":[]},"favorited":false,"retweeted":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226959272"}
-{"created_at":"Thu Dec 08 19:56:01 +0000 2016","id":806950478663811072,"id_str":"806950478663811072","text":"_ https:\/\/t.co\/7TRejiXZVZ #Android #delicious #demilovato #design 1233","source":"\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eMobile Web (M5)\u003c\/a\u003e","truncated":false,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":39940549,"id_str":"39940549","name":"Chris","screen_name":"fordfiveohh","location":"Birmingham Alabama","url":null,"description":"Software Test Automation Engineer, Performance Test Engineer, Windows Devices Software Developer, Mobile Guru, Loadrunner Guru","protected":false,"verified":false,"followers_count":292,"friends_count":1022,"listed_count":485,"favourites_count":45,"statuses_count":273642,"created_at":"Thu May 14 06:11:13 +0000 2009","utc_offset":-21600,"time_zone":"Central Time (US & Canada)","geo_enabled":true,"lang":"en","contributors_enabled":false,"is_translator":false,"profile_background_color":"C0DEED","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/253234272\/me_myspace_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/253234272\/me_myspace_normal.jpg","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"Android","indices":[26,34]},{"text":"delicious","indices":[35,45]},{"text":"demilovato","indices":[46,57]},{"text":"design","indices":[58,65]}],"urls":[{"url":"https:\/\/t.co\/7TRejiXZVZ","expanded_url":"http:\/\/www.rocktheboattechnologylinkpage.com","display_url":"rocktheboattechnologylinkpage.com","indices":[2,25]}],"user_mentions":[],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"und","timestamp_ms":"1481226961185"}
-{"created_at":"Thu Dec 08 19:56:02 +0000 2016","id":806950485232156672,"id_str":"806950485232156672","text":"See &amp; this \ud83d\udc47\ud83d\udc47\nhttps:\/\/t.co\/zggZFeT3qq \n\n&amp; check my profile link \ud83d\udc4c\n#cook #foodie #foodporn #food #tasty #cooking\u2026 https:\/\/t.co\/Va7ljhcOXE","display_text_range":[0,140],"source":"\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e","truncated":true,"in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":244852930,"id_str":"244852930","name":"chef_Achilles","screen_name":"chef_Achilles","location":"if u like myfoodpics.follow me","url":"http:\/\/www.facebook.com\/spitiki.gastronomia","description":"http:\/\/lm.facebook.com\/l.php?u=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_pDUe3DFYZM%26sns%3Dem&h=2AQHTff_9&enc=AZNRiFDTQ6junEK6I8AQM-_3ftqmAM2f8nwwgURHEtZjM7j","protected":false,"verified":false,"followers_count":241,"friends_count":75,"listed_count":66,"favourites_count":6325,"statuses_count":1121,"created_at":"Sun Jan 30 08:32:49 +0000 2011","utc_offset":7200,"time_zone":"Athens","geo_enabled":true,"lang":"el","contributors_enabled":false,"is_translator":false,"profile_background_color":"C0DEED","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png","profile_background_tile":false,"profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/801088631867842560\/a57nPrQj_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/801088631867842560\/a57nPrQj_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/244852930\/1406453339","default_profile":true,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"extended_tweet":{"full_text":"See &amp; this \ud83d\udc47\ud83d\udc47\nhttps:\/\/t.co\/zggZFeT3qq \n\n&amp; check my profile link \ud83d\udc4c\n#cook #foodie #foodporn #food #tasty #cooking #fishing #Hunting #fish #fit https:\/\/t.co\/NGn2r7oz7T","display_text_range":[0,148],"entities":{"hashtags":[{"text":"cook","indices":[74,79]},{"text":"foodie","indices":[80,87]},{"text":"foodporn","indices":[88,97]},{"text":"food","indices":[98,103]},{"text":"tasty","indices":[104,110]},{"text":"cooking","indices":[111,119]},{"text":"fishing","indices":[120,128]},{"text":"Hunting","indices":[129,137]},{"text":"fish","indices":[138,143]},{"text":"fit","indices":[144,148]}],"urls":[{"url":"https:\/\/t.co\/zggZFeT3qq","expanded_url":"http:\/\/www.youtube.com\/watch?v=_pDUe3DFYZM&sns=em","display_url":"youtube.com\/watch?v=_pDUe3\u2026","indices":[18,41]}],"user_mentions":[],"symbols":[],"media":[{"id":806950455335153665,"id_str":"806950455335153665","indices":[149,172],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdKemXcAE4kxh.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdKemXcAE4kxh.jpg","url":"https:\/\/t.co\/NGn2r7oz7T","display_url":"pic.twitter.com\/NGn2r7oz7T","expanded_url":"https:\/\/twitter.com\/chef_Achilles\/status\/806950485232156672\/photo\/1","type":"photo","sizes":{"medium":{"w":900,"h":1200,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"small":{"w":510,"h":680,"resize":"fit"},"large":{"w":1536,"h":2048,"resize":"fit"}}}]},"extended_entities":{"media":[{"id":806950455335153665,"id_str":"806950455335153665","indices":[149,172],"media_url":"http:\/\/pbs.twimg.com\/media\/CzLdKemXcAE4kxh.jpg","media_url_https":"https:\/\/pbs.twimg.com\/media\/CzLdKemXcAE4kxh.jpg","url":"https:\/\/t.co\/NGn2r7oz7T","display_url":"pic.twitter.com\/NGn2r7oz7T","expanded_url":"https:\/\/twitter.com\/chef_Achilles\/status\/806950485232156672\/photo\/1","type":"photo","sizes":{"medium":{"w":900,"h":1200,"resize":"fit"},"thumb":{"w":150,"h":150,"resize":"crop"},"small":{"w":510,"h":680,"resize":"fit"},"large":{"w":1536,"h":2048,"resize":"fit"}}}]}},"retweet_count":0,"favorite_count":0,"entities":{"hashtags":[{"text":"cook","indices":[74,79]},{"text":"foodie","indices":[80,87]},{"text":"foodporn","indices":[88,97]},{"text":"food","indices":[98,103]},{"text":"tasty","indices":[104,110]},{"text":"cooking","indices":[111,119]}],"urls":[{"url":"https:\/\/t.co\/zggZFeT3qq","expanded_url":"http:\/\/www.youtube.com\/watch?v=_pDUe3DFYZM&sns=em","display_url":"youtube.com\/watch?v=_pDUe3\u2026","indices":[18,41]},{"url":"https:\/\/t.co\/Va7ljhcOXE","expanded_url":"https:\/\/twitter.com\/i\/web\/status\/806950485232156672","display_url":"twitter.com\/i\/web\/status\/8\u2026","indices":[121,144]}],"user_mentions":[],"symbols":[]},"favorited":false,"retweeted":false,"possibly_sensitive":false,"filter_level":"low","lang":"en","timestamp_ms":"1481226962751"}
+
+New Tweet:
+Let @F4ZU teach you the different ways to eat roti. https://t.co/giJ0hPrVeT #howtoeat #food https://t.co/nTKQnYaxYQ
+New Tweet:
+#pizzapotpie
+#lahore
+#lums
+#food https://t.co/VKAkhX7D9Y
+New Tweet:
+Just some salmon and avocado. 
+************************
+
+#food #tarynupthemap #health #healthy… https://t.co/SlvIrXgc2g
+New Tweet:
+Christmas party no 1 🎄 #bills #restaurant #christmasparty #love #food https://t.co/LzVYEjqdCU
+New Tweet:
+#Food #Pasta #Mussels #Prawns #Ecuadorian #Spaghetti #Shell #Tomato #Chilli #Coriander #London https://t.co/BeWHI6xiI4
+New Tweet:
+£10 worth of free food from Deliveroo with the discount/voucher code 'shubeyb' #free #freefood #food https://t.co/S35K0ccRUy
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Pulled Pork Stuffed Baked Potatoes https://t.co/RorqsL7D4p
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Split Pea Soup https://t.co/VKt3LyYR10 https://t.co/6JnDpsuSBK
+New Tweet:
+RT @IsraelinNewYork: 24 Reasons #NewYorkers ❤ @TelAviv
+🔗 https://t.co/o4t2gHrXnN
+
+#Israel #TLV #TelAviv #food #cuisine #party #city #beach…
+New Tweet:
+#UK #food #prices will rise without #EU #workers, say trade groups https://t.co/W9cxffadgS
+New Tweet:
+RT @cookingscarlet : [i Ate] Spam Musubi #food #foodporn #recipe #cooking #recipes #foodie … https://t.co/MKBDyHTNnU https://t.co/tROeEv7iY7
+New Tweet:
+RT IsraelinNewYork: 24 Reasons #NewYorkers ❤ TelAviv
+🔗 https://t.co/cFzjl5EBoG
+
+#Israel #TLV #TelAviv #food #cuis… https://t.co/LdcsfHmHDL
+New Tweet:
+New #FoodProcessor course for beginners #ad https://t.co/WybVmjMHW7 #recipes #homecook #healthy #food https://t.co/NYFwhdqM7t
+New Tweet:
+#gavin1dailypics #spicy #cottagepie #spicycottagepie #foodporn #food #foodstagram #foodlover… https://t.co/UaoyzdAhl7
+New Tweet:
+Super fresh #ettydvash #jerusalem #instafood #instastyle #food #fish #good #instagood @ האטליה https://t.co/05nxRnV6Z8
+New Tweet:
+New post! #food #salonhair #facto #hairdresser #lisbon #travelblog #blogger #Blog #blogging #travel https://t.co/2jC3EO2tQp
+New Tweet:
+Peach by canelarsel source:500px #food https://t.co/0Bl1UZTjPr
+New Tweet:
+Christmas stollen by Irina_Meliukh source:500px #food https://t.co/LsxIyDMH9A
+New Tweet:
+Chocolate Raspberry Mousse Cake https://t.co/1u3CwCGUmc #food https://t.co/KyWmT9alEz
+New Tweet:
+Bacon Wrapped Jalapeno Chicken Bites https://t.co/bT0GCylmo0 #food https://t.co/tBS0mXpQWY
+New Tweet:
+javitxudancer: Best dessert in the town #tbt at elperroylagalleta #likeit #followme #like #foodporn #food… … https://t.co/X0byQahlDr
+New Tweet:
+Use my #deliveroo #code  https://t.co/UZeVvPPvry for £10 off your #order from loads of restaurants #food #voucher #free #takeaway #foodporn
+New Tweet:
+RT @WeLoveLisbon: Foxtrot is an iconic intimate #bar with high quality #drinks and #food |  
+#Lisbon #Nightlife @BarFoxtrotLX |  
+https://t…
+New Tweet:
+RT @niecyisms: Share our #Magic #Reindeer #Food #Recipe &amp; Poem #Free Printable #Craft https://t.co/QXtVCeKKPy… #MagicReindeerFood #Holidays…
+New Tweet:
+RT IsraelinNewYork: 24 Reasons #NewYorkers ❤ TelAviv
+🔗 https://t.co/SLKRMJPAlS
+
+#Israel #TLV #TelAviv #food #cuis… https://t.co/BBOmBGBc71
+New Tweet:
+@PalateXposure "where your senses and desires come alive." https://t.co/LPkIgYEBRK @CIACulinary @CIAGreystone #wine… https://t.co/jBPe0wKeXz
+New Tweet:
+RT @IsraelinNewYork: 24 Reasons #NewYorkers ❤ @TelAviv
+🔗 https://t.co/o4t2gHrXnN
+
+#Israel #TLV #TelAviv #food #cuisine #party #city #beach…
+New Tweet:
+DNA Testing. https://t.co/sNnKJQSqbo #healthcare #wellness #wsj #business #bloomberg #fitness #food #nutritional… https://t.co/KpbLfMStKJ
+New Tweet:
+DNA Testing. https://t.co/aHwL6BtglW #healthcare #wellness #wsj #business #bloomberg #fitness #food #nutritional… https://t.co/iDNg1mUWMh
+New Tweet:
+Get $10 for #free #food via #postmates #delivery with #promocode "ju4fe" https://t.co/oFF1AMp8OB #coupon #code #promo #invite #hungry #temp
+New Tweet:
+Get Well Leek and Potato Soup https://t.co/UiG99etWWV #food #lifestyle #ClassicPosts
+New Tweet:
+Best dessert in the town #tbt at elperroylagalleta #likeit #followme #like #foodporn #food… https://t.co/9RflOvjdYa
+New Tweet:
+#best #webcamchat #germany #food #tweegram #squirt #exclusive 
+
+---&gt; https://t.co/AGZhL60YFn https://t.co/BLDGkerHsE
+New Tweet:
+RT @cookingscarlet: [homemade] chocolate cake with tree like outer bark topped with four raspberries. #food #foodporn #recipe #cooking … ht…
+New Tweet:
+#Celebrating my #mother's #birthday #dinner #food #restaurant #Geburtstag #Geburtstagsfeier #mom… https://t.co/1UpYPmOpcA
+New Tweet:
+Peperoni, melanzane, zucchine, pomodorini 💯®💪
+
+#pizza #veganstyle #canarie #tenerife #food #foodporn #yum... https://t.co/Q6TBtRLD6e
+New Tweet:
+RT @HealthyKadai: Plain #Dosa #Recipe - easy #SouthIndian #Food
+#Foodie #Indianfood #healthy https://t.co/FC7zB5eRMs https://t.co/6AtcCL92Xx
+New Tweet:
+#Tortora #CotolettadivitellobaconProvola #food #foodporn #yum #instafood  #yummy #amazing… https://t.co/GqUj2gVlqB
+New Tweet:
+RT @Delicious_Feed: "#Turkey, mushroom, spinach and #egg on tortilla" #food #cooking #gourmet #deliciousfood https://t.co/rooEAIRigh
+New Tweet:
+Peperoni, melanzane, zucchine, pomodorini 💯®💪
+
+#pizza #veganstyle #canarie #tenerife #food… https://t.co/DXreK2Y7O7
+New Tweet:
+1983: 127 outbreaks, 7,082 cases... it's a rough life #food #&amp; #drug #administration
+New Tweet:
+RT @allotmentdog: Time to relax. In the best pub in NORFOLK @duck_inn. #food #restaurant #norfolk #lifestyle https://t.co/qlK2Bhr803
+New Tweet:
+"Healthy Chocolate Almond Butter Cups" #food #eat #health #tastyfix https://t.co/J13K5Pvjov https://t.co/PgRkPMOPwU
+New Tweet:
+#food #delicious #image #foodie #foodporn #recipe #cook #pic #healthy #yummy #recipes #cooking https://t.co/C29PeiyE8P
+New Tweet:
+What Will YOU Remember About Christmas? https://t.co/nt7YYDiaVj #gardening #food
+New Tweet:
+RT @BandaiAmerica: And this is why we cook two turkeys...@PowerRangers #powerrangers #zord #turkey #happyholidays #food #saban https://t.co…
+New Tweet:
+RT @EatBrighton: "A lot of movies are about life, mine are like a slice of cake." #AlfredHitchcock #food #quotes https://t.co/JW3IQWI9ss
+New Tweet:
+RT @WhereToEatUK: Venus cafés, takeaways &amp; beach shops during winter months #Food #Devon #Cornwall @TheVenusCompany https://t.co/hdHdRLr1Y5
+New Tweet:
+Queen salad maker 🙋🏻😋🌶🌿 #salad #queen #colourful #food #lunch #yummy #veggies #nutritious… https://t.co/WT4JH8KtEP
+New Tweet:
+#food #foodie #recipes #foodporn #image #delicious #cook #cooking #recipe #yummy #pic #healthy https://t.co/b8gmX2WYtO
+New Tweet:
+RT @youcouldtravel: What is the traditional #Italian meal? Ever wondered what is the difference between primi, secondi and dolci? #food htt…
+New Tweet:
+Asian #Food Lovers Food box - Een box voor mensen die van Aziatisch eten houden https://t.co/3HKDtmco4a
+New Tweet:
+#Food Wishes #Recipes - Oven-Dried Tomatoes - San Marzano #Tomatoes Dried in the Oven  https://t.co/rFL4Gp3vi9
+New Tweet:
+RT @ImKunal95: Cookie Dough Ice Cream Pie 🍪 https://t.co/p0IkoeseYG #FoodPorn #Food #FoodBlogger
+New Tweet:
+@PalateXposure "where your senses and desires come alive." https://t.co/rOGxtZe89i @CIACulinary @CIAGreystone #wine… https://t.co/Wb4EPOqCsd
+New Tweet:
+DNA Testing. https://t.co/g72040M2Gm #healthcare #wellness #wsj #business #bloomberg #fitness #food #nutritional… https://t.co/6oBkMozLaI
+New Tweet:
+Simple Holiday Snack Bar &amp; DIY Chalkboard Serving Trays #ad #StaterHolidaySnacks #Christmas #holidays #food… https://t.co/EgYxgcfJk7
+New Tweet:
+RT @DublinHempCo: #HanfNatur #Hemp #food #skincare See the range in-store 167 Capel St, D1 M-S 10-6pm https://t.co/kFeR1iz83V https://t.co/…
+New Tweet:
+RT @HealthyKadai: Plain #Dosa #Recipe - easy #SouthIndian #Food
+#Foodie #Indianfood #healthy https://t.co/FC7zB5eRMs https://t.co/6AtcCL92Xx
+New Tweet:
+Black Forest Cookie Cake show stopper for your festive table (btw it's reaaly easy!) https://t.co/N8dk1LIF7G… https://t.co/cAztXrGi7m
+New Tweet:
+The latest Recipes of The Day! https://t.co/8TCzEU0dCA Thanks to @mezzyem @Sassodoro @danielmann910 #recipe #food
+New Tweet:
+The latest The Garotas de Sorte Daily! https://t.co/BC6EboIUEh Thanks to @mizinhak @starssurfer @aplusk #food #restaurantes
+New Tweet:
+Ayer comí #tequeños con los amigos. #FelizNavidad #VenezuelanFood #comidavenezolana #food… https://t.co/QAo3x9Qcah
+New Tweet:
+"#Turkey, mushroom, spinach and #egg on tortilla" #food #cooking #gourmet #deliciousfood https://t.co/rooEAIRigh
+New Tweet:
+Love Freddy's Frozen Custard &amp; Steakburgers? Get there free w/ Lyft! $50 Free Lyft credit. Use Lyft Coupon Code: DEX #restaurant #food #eat
+New Tweet:
+Peach #food #pics #yum https://t.co/6xdbk8Ez3e
+New Tweet:
+Christmas stollen #food #pics #yum https://t.co/i6X2FeHyjV
+New Tweet:
+Prawn pesto pizza #food #pics #yum https://t.co/447xsKTYPd
+New Tweet:
+DNA Testing. https://t.co/ITU3Vwlboh #healthcare #wellness #wsj #business #bloomberg #fitness #food #nutritional… https://t.co/0oCsnQbz2a
+New Tweet:
+#food #foodporn #yum #instafood #TagsForLikes #yummy #amazing #instagood #photooftheday #sweet… https://t.co/New8qntgNc
+New Tweet:
+#Pizza #PizzaLover #FoodPorn #Foodie #FoodPic #Food #VENEZUELA @ Don Corleone Pizzas y Pastas c.a https://t.co/9qOBus2ZcC
+New Tweet:
+New favourite beer! #castrel #beer #ethiopian #cuisine #food #restaurant #london… https://t.co/lTkvlSjLbF
+New Tweet:
+#food #popular #photography #photo #FF #image #instagram #500px https://t.co/UkYgDGlwPf
+New Tweet:
+#food #popular #photography #photo #FF #image #instagram #500px https://t.co/c69SAlAdNV
+New Tweet:
+Time to relax. In the best pub in NORFOLK @duck_inn. #food #restaurant #norfolk #lifestyle https://t.co/qlK2Bhr803
+New Tweet:
+RT @ElixirLibri: You say mince pie, I say Lebkuchen...let's bake the whole thing off!
+#food #history
+Pics via Wikimedia Commons (but would…
+New Tweet:
+Popular on @500px : Peach by canelarsel | https://t.co/ZwAbn1dlLf #500px #food #popular https://t.co/6EusvExeEf
+New Tweet:
+#tigelle
+▫▫▫▫▫
+#food #foodporn #instafood #yummy #delicious #dinner #foodie #yum #healthy… https://t.co/BNWoZcrqRD
+New Tweet:
+Popular on @500px : Christmas stollen by Irina_Meliukh | https://t.co/7B7SOn093D #500px #food #popular https://t.co/lkfGqzjBqB
+New Tweet:
+Doing #Atlanta right. 
+#bbq #food #travel #south #meat #allthemeat #heartattack @ Fox Bros Bar-B-Q https://t.co/kL1e3bto80
+New Tweet:
+Sindhi Kadhi Recipe - #Food #Recipe #Cooking https://t.co/IDtacGOoK3
+New Tweet:
+Weekend in Hanoi – an itinerary for 2 days in Vietnam's chaotic but atmospheric capital https://t.co/x3SCXMGCYX #travel #food
+New Tweet:
+Fibro or Lupus? by Kyra (Aurora, IL, USA) 
+https://t.co/QRq0e8jtdk
+#lupus #pain #fibro #retweet #follow #news #health #truth #food #blog
+New Tweet:
+Chocolate Raspberry Mousse Cake https://t.co/o2AeWtpuaw #FoodPorn #Food #FoodBlogger
+New Tweet:
+https://t.co/yHJ0Khfe6l  Сформированы виды налогового органа в 2016 году #bestoftheday  #деньги #food
+New Tweet:
+#swag  #food  #деньги  https://t.co/LEQcU8jrjZ  Утверждены поправки налогового закона в России
+New Tweet:
+RT @HealthyKadai: Plain #Dosa #Recipe - easy #SouthIndian #Food
+#Foodie #Indianfood #healthy https://t.co/FC7zB5eRMs https://t.co/6AtcCL92Xx
+New Tweet:
+https://t.co/z62H3u4v7D  Опубликованы корректировки налогового сегмента в 2017 году #food  #деньги #smile
+New Tweet:
+RT @recipe4cuisine: Please RT! #recipes #food #dessert Thanksgiving Roast Chicken Recipe https://t.co/0kUhX2NjTN https://t.co/KjESlz0U0K
+New Tweet:
+RT @InterfloraUK: Like this tweet &amp; tell us your favourite #festive #food for a chance to #WIN this #fun #Christmas centrepiece! https://t.…
+New Tweet:
+#Food Syngenta’s Integrated Productivity Program increases corn yield by 25% in Brazil https://t.co/0QlKg4Ig7p
+New Tweet:
+Am I fond of #vegan #food and #cycling ? Not at all 😂 #bestnine2016 
+#veggie #vegetarian… https://t.co/aBC4zRUEf9
+New Tweet:
+What foods Americans have been Googling? Check out: https://t.co/8iY0pFYJZo #infographic #food #search #Google
+New Tweet:
+Follow my instagram for #plussize #fashion, #food, &amp; #lingerie galore https://t.co/zDrQobdYOc https://t.co/PWRYor7QYb
+New Tweet:
+DNA Testing. https://t.co/EWc40tVCEm #healthcare #wellness #wsj #business #bloomberg #fitness #food #nutritional… https://t.co/IFLuFlSIYi
+New Tweet:
+RT HealthyKadai: Plain #Dosa #recipe - easy #southIndian #Food
+ #Foodie #Indianfood https://t.co/MEXOCjqilS   https://t.co/ODkRy1DoWP
+New Tweet:
+5 Phytonutrients You Should Be Eating For An Everyday Detox https://t.co/Cb3zKK7uQX  #Beauty #Food
+New Tweet:
+Spen Brûlée @gtrtechspenny #food #christmas https://t.co/N3v0GesAjM
+New Tweet:
+Join us for our Holiday Social at @WestEndCH on Mon, Dec 19 from 5:30-7:30pm #food #networking #holidaycheer RVSP at https://t.co/IdDrrd5Qvj
+New Tweet:
+[homemade] chocolate cake with tree like outer bark topped with four raspberries. #food #foodporn #recipe #cooking … https://t.co/rloOCn5hdc
+New Tweet:
+RT @ItsFoodPorn #Lecker #Food S'mores Bars https://t.co/ZRUIwM0Z5h https://t.co/ot77LStsV0
+New Tweet:
+#fooD foR @th0ughT.. https://t.co/rfD4EhHagZ
+New Tweet:
+[I Ate] Traditional Ceviche in Arequipa Peru #food #foodporn #recipe #cooking #recipes #foodie #healthy #cook #heal… https://t.co/KyegBJSU5k
+New Tweet:
+RT @IsraelinNewYork: 24 Reasons #NewYorkers ❤ @TelAviv
+🔗 https://t.co/o4t2gHrXnN
+
+#Israel #TLV #TelAviv #food #cuisine #party #city #beach…
+New Tweet:
+NYE All Inclusive Party £99 per person *unlimited drinks until 1am #food #entertainment #fun #2017  The Richmond… https://t.co/9if3owolhS
+New Tweet:
+#Groupon is unleashing the #Deals
+https://t.co/qsF2SEPtMt
+#Coupon #Vacation #Deals #Travel #Food https://t.co/IGs1VEawWb
+New Tweet:
+30 Minute Korean Bibimbap Recipe[Homemade] #food #foodporn #recipe #cooking #recipes #foodie #healthy #cook #health… https://t.co/C4I0KRldqi
+New Tweet:
+[i ate] Tempura Fried River Shrimp in Vientiane Laos #food #foodporn #recipe #cooking #recipes #foodie #healthy #co… https://t.co/y7UhFY7Stb
+New Tweet:
+RT @HealthyKadai: Plain #Dosa #Recipe - easy #SouthIndian #Food
+#Foodie #Indianfood #healthy https://t.co/FC7zB5eRMs https://t.co/6AtcCL92Xx
+New Tweet:
+Il mio panettone gastronomico
+https://t.co/JScIFDtOTG #gialloblog #Natale #natale2016 #vigiliadinatale #Capodanno… https://t.co/FNcErq7k21
+New Tweet:
+RT @ELLEBelgique: https://t.co/rOnr66fZIx &gt;&gt; Où manger des #frites de #luxe ? #fries #food #Anvers https://t.co/bFruN3INcn
+New Tweet:
+How to take *gorgeous* food photos for #food, #fashion, and lifestyle #bloggers https://t.co/4y6Ym30w9b https://t.co/yFLPLOOLUG
+New Tweet:
+If your biz is #healthyfood I can help your #marketing. My new project: The Table - #food marketing advice here:… https://t.co/lxNyH2DEOP
+New Tweet:
+Cocoa Swirl Mocha Brioche #bread #food #baking #breakfast #recipe #homemade #cheese #foodporn #yummy #bakery #sourd… https://t.co/9kmqgJQebR
+New Tweet:
+Congratulations to our amazing Summer Institute grad 
+@oldelectricity for winning an @OhioHumanities grant! 🙌🏽… https://t.co/VszIANXtTh
+New Tweet:
+Another Friday! Why not get some lunch at SBs on Hutt Street #food #lunch #adelaide
+New Tweet:
+RT @ForgottnHarvest: About 40% of all #food grown in this country is #wasted. Can the U.S. Halve #FoodWaste By 2030? https://t.co/HQTv5dtMF…
+New Tweet:
+Aroma N Spice for clean, tasty, quality, global meal starters! https://t.co/3BgkXXuGeg #food #healthy #delivery… https://t.co/RzuqYGAcNk
+New Tweet:
+It's hard to believe, only 16 days til #Christmas! If you're planning a #HolidayParty we've got #food tips for you!… https://t.co/j54D9fGf7C
+New Tweet:
+Hiding inside from the cold, so homemade pot pies. #winterwonderland #homecooking #food #potpie… https://t.co/aBELo4xlWA
+New Tweet:
+A #law standardizes #food date #labeling #Living #startups #Funding #VC https://t.co/g7CmZrDZHm https://t.co/rCEpkiE7CF
+New Tweet:
+Don't forget to follow YordanDim on #Instagram https://t.co/ulbFTO9av1 #Food #Architecture #Travel
+New Tweet:
+#food #yum #yummy #sweet #dinner #lunch #breakfast #fresh #tasty #delish #eating #foodpics #eat #hungry #hot #foods… https://t.co/xOIknvfEkD
+New Tweet:
+Top Story: Chef Sean McDuff https://t.co/hlHnTUaFYb #recipes #food #cooking #delicious @Live_2_eat_Well #Chef https://t.co/f1kf66Ge1y
+New Tweet:
+take a look at this design : https://t.co/du9SUd6DSt #coffee #gifts #food #drinks #kitchen #mug https://t.co/osYwHEEx9H
+New Tweet:
+Garlic Ginger Eggplant w/ Pork https://t.co/oAZQfYBFbo #TW #food #recipe #yum #nom #foodpo… https://t.co/sHLaORWV1d https://t.co/6SLwAJRCmV
+New Tweet:
+DNA Testing. https://t.co/JFttU8K9e9 #healthcare #wellness #wsj #business #bloomberg #fitness #food #nutritional… https://t.co/HXoSwmDZNi
+New Tweet:
+Tiramisu Caffé Olè... Experimente :D
+
+#novoendereço #brasserie #cafféole #coffee #breakfast #food #centro #rio https://t.co/J0qfJgz6VE
+New Tweet:
+@lilly0971 Bob è #dallavostraparte https://t.co/sch2rxJR6b #food #foodblogger #8dicembre #nonstopnews
+New Tweet:
+https://t.co/rOnr66fZIx &gt;&gt; Où manger des #frites de #luxe ? #fries #food #Anvers https://t.co/bFruN3INcn
+New Tweet:
+.@ISayNomato's Peppermint Macarons with Chocolate Ganache are sweet little drops of Christmas:… https://t.co/DpgtSHCqTf
+New Tweet:
+#eat #sleep #rave repeat...Don't forget #food and air #edmfamily and if you need tunes Head to https://t.co/lwVT7onVhV and get some #EDM
+New Tweet:
+￼Donate these items to a holiday food drive near you! #FUSIA #Fusiamagazine #Women #Lifestyle #fusiamedia #food… https://t.co/qxlGXIRIfn
+New Tweet:
+Excellent piece on the centrality of #food to #Muslim traditions - feeding others a spiritual act https://t.co/REFEjLSiCE @qz
+New Tweet:
+RT @ElixirLibri: You say mince pie, I say Lebkuchen...let's bake the whole thing off!
+#food #history
+Pics via Wikimedia Commons (but would…
+New Tweet:
+【定期】日本一？な一度は行ってみたい料理店のまとめ https://t.co/4F6ea7DWsG #food
+New Tweet:
+#XFactor #copertina e un #budino ciocco-pannoso! Buona serata!
+#food #foodporn #lericettedielenuar https://t.co/f49zy0TxmS
+New Tweet:
+https://t.co/0RmvaNJxP7 [I Ate] Traditional Ceviche in Arequipa Peru #recipes #food #cooking #delicious #foodie #f… https://t.co/Vm1dACsSgm
+New Tweet:
+https://t.co/8OjTGD3An9 30 Minute Korean Bibimbap Recipe[Homemade] #recipes #food #cooking #delicious #foodie #foo… https://t.co/EeOipF316S
+New Tweet:
+https://t.co/dpx9Hgr4JV [i ate] Tempura Fried River Shrimp in Vientiane Laos #recipes #food #cooking #delicious #f… https://t.co/WjgFcO8ZzV
+New Tweet:
+How do you tell if an #artificial sweetener has been added to your #food? via @TheOrganicView https://t.co/dsH2tb4e2q
+New Tweet:
+How do you tell if an #artificial sweetener has been added to your #food? via @TheOrganicView https://t.co/D6zN6Tb8Xm
+New Tweet:
+How do you tell if an #artificial sweetener has been added to your #food? via @TheOrganicView https://t.co/hvsWqw8Ct0
+New Tweet:
+Hearty Slow Cooker Chili - https://t.co/BVTefvACRh #foodpic #tasty #food https://t.co/e1FAbaVfpf
+New Tweet:
+"My Favourite Chilli #Recipe" #food #cooking #gourmet #deliciousfood https://t.co/kQO8TudKAf
+New Tweet:
+The latest WASHINGTON STATE WINERY NEWS #WAwine #Wine #Food #Foodie #Travel! https://t.co/b9kUIUUhjp #wine
+New Tweet:
+Grandma's Pumpkin Roll.  Sweetened cream cheese filling rolled in a moist pumpkin cake makes a tasty dessert. #food… https://t.co/QDmnzxzg5J
+New Tweet:
+DNA Testing. https://t.co/El3ZTehqhz #healthcare #wellness #wsj #business #bloomberg #fitness #food #nutritional #mayo #trump #cnn #nbc #dna
+New Tweet:
+24 Reasons #NewYorkers ❤ @TelAviv
+🔗 https://t.co/o4t2gHrXnN
+
+#Israel #TLV #TelAviv #food #cuisine #party #city… https://t.co/14ZkHK0n26
+New Tweet:
+RT @ChefGOliver: @jamincrittenden is opening his restaurant #Stark you have to go to the best place in town #stark #restaurant #food #chef…
+New Tweet:
+#XFactor #copertina e un #budino ciocco-pannoso! Buona serata!
+#food #foodporn #lericettedielenuar https://t.co/iDfgHOTU6m
+New Tweet:
+Boeuf au piment (spicy beef)
+.
+.
+.
+.
+.
+ #food #foodpost #foodies #foodporn  #meal… https://t.co/5EOLxIa2FS
+New Tweet:
+@wadetate Great post! Delicious recipes with turmeric @sobodyuk eg. https://t.co/YMAp3E5tJ5
+#food #recipe #health https://t.co/moSMnRod8o
+New Tweet:
+EasyRecipesrss: Please RT #recipes #food #cooking #delicious #cook #recipe Papa?s New World Giambotta … https://t.co/PpRht5LG0P
+New Tweet:
+The word, moist. #food professionals need to find another word. #masterchefprofessionals
+New Tweet:
+Love National Coney Island? Get there free w/ Lyft! $50 Free Lyft credit. Use Lyft Code: OATH #hungry #grub #food #eat
+New Tweet:
+Love Taco Mayo? Get there free w/ Lyft - $50 credit Use Lyft Promo Code COAX #food #restaurant #foodie #grub #lyft #uber #date
+New Tweet:
+Get $7 off #DoorDash #Free #Food #Delivery #Promo #Code “x7t9Ix” https://t.co/gY2RAFDrMa
+California #Chicago
+New Tweet:
+https://t.co/WCOtrojkXV  Читайте тут очередные поправки указов в РФ #bestoftheday  #деньги #food
+New Tweet:
+The closest I get to cooking #food #chef #setlife #sony @rhinocameragear @atomos_news https://t.co/MTeIlIMzGn
+New Tweet:
+How to Eat Kumquats: Recipes and Tips https://t.co/BDkw8bIfNy #food #recipes #spiralizer https://t.co/nw9SvTlLff
+New Tweet:
+#swag  #food  #деньги  https://t.co/JbOSqsL6H2  Сформированы основные изменения в законопроектах в России
+New Tweet:
+https://t.co/iixYGkIvda  Утверждены профильные разработки приказов в РФ #food  #деньги #smile
+New Tweet:
+#HanfNatur #Hemp #food #skincare See the range in-store 167 Capel St, D1 M-S 10-6pm https://t.co/kFeR1iz83V https://t.co/ORjsybe0E1
+New Tweet:
+#Food &amp; #Drinks #News : THIS VEGETABLE WILL FIX EVERYTHING WRONG IN YOUR BODY! https://t.co/LO1xu9Nply https://t.co/0u9sLy8CO6
+New Tweet:
+#food #yum #healthy #fashion #style #stylish #love #beautiful #diet #health #weightloss https://t.co/eecirhf5No
+New Tweet:
+2 of my favorite things, together: 40 Delicious Examples of #Food #Photography https://t.co/4t77uJqSfU #foodporn
+New Tweet:
+Meet the Navajo Chef Cooking Indigenous Cuisine at Standing Rock https://t.co/3quASAqSHQ #Chefs #Food
+New Tweet:
+DNA Testing. https://t.co/C8eZdeVlbQ #healthcare #wellness #wsj #business #bloomberg #fitness #food #nutritional #mayo #trump #cnn #nbc #dna
+New Tweet:
+What if we told you that you'd never have to chop another clove of garlic... http… https://t.co/9fJFd1Lxod #food
+New Tweet:
+Roasted cauliflower grandma pie (wearing stinky perfume not required to enjoy) http… https://t.co/RPdZxkbEBE #food
+New Tweet:
+Zombie survival 101: Quickest bread ever! #Survival #Apocalypse #Food #Zombie #Zombies #Twd #WalkingDead #brains https://t.co/nesX1VzQsN
+New Tweet:
+Obesity delivered. Fantastic work. #food #obesity #advertising https://t.co/yd5DJM62sF
+New Tweet:
+RT @EatBrighton: "A lot of movies are about life, mine are like a slice of cake." #AlfredHitchcock #food #quotes https://t.co/JW3IQWI9ss
+New Tweet:
+RT @laxiquetadelpa: I per postre pizzeta de #nutella by @LaMentaBerga  ! #antojo #food #Berga #Bergueda https://t.co/Lel0reQqVZ
+New Tweet:
+RT @iCook_co: Am I The Only One Around Here https://t.co/diG9IBWhYJ #food #recipes  #uncategorized #amitheonlyonearoundhere #memes
+New Tweet:
+RT @CHEFJOHNREED: Burnt orange &amp; lime chilli chicken stir fry with coconut rice. #food #HealthyEating #HealthyFood #healthylifestyle https:…
+New Tweet:
+RT @EatBrighton: "A lot of movies are about life, mine are like a slice of cake." #AlfredHitchcock #food #quotes https://t.co/JW3IQWI9ss
+New Tweet:
+RT @forennte: A bit of yummy that’s bound to make you smile.  Have a happy Tuesday my lovelies! :) #food #desserts #Christmas #foodgasm #pu…
+New Tweet:
+RT @xxxmamichuloxxx: These layered crepes is a must try though 😋
+
+#food #foodporn #foodgasm #foodblog #foodblogger… https://t.co/DjdDV8rdL7
+New Tweet:
+DNA Testing. https://t.co/yMHRLUSSY7 #healthcare #wellness #wsj #business #bloomberg #fitness #food #nutritional… https://t.co/0knr3XgHD9
+New Tweet:
+RT @shtfpreparednes: Build An Underground Year Round Greenhouse For Less Than $300 https://t.co/hQvQjmrWdQ #diy #food #gardening
+New Tweet:
+This is what xmas is about ! #mincepie #xmas #christmas #cappuccino #tree #food https://t.co/nRjDbF4qsV
+New Tweet:
+$RIBT fired their CEO and now it's as good as a new company ..#Food theme could be next
+New Tweet:
+RT @herestilllife: Prawn pesto pizza by socialmischiefs source:500px #food https://t.co/75jR0kqCzY
+New Tweet:
+RT @pascal_rhyner: Already the 5th wicket – find out more about our Leslie https://t.co/v28sTFpCPh …  #xmas #zurich #switzerland #food #dri…
+New Tweet:
+Canada Agriculture and Food Museum Announces new initiative on Canola
+#BBA #Toronto #Food #News #ThursdayThoughts https://t.co/cKAwAhQkAe
+New Tweet:
+Canada Agriculture and Food Museum Announces new initiative on Canola
+#BBA #Toronto #Food #News #ThursdayThoughts https://t.co/HlT29TRbdH
+New Tweet:
+RT @HotelMeierhof: Which version of our Lounge and Bar au lac do you like more? :-) 
+#Lounge #zurich #horgen #food #party #drink #cocktails…
+New Tweet:
+RT @NevisNaturally: Wrapping up another day of filming @Atasteofhistory. #history #pbsnetwork #food https://t.co/SZniy6OJwT
+New Tweet:
+RT @HotelMeierhof: Already the 5th wicket – find out more about our Leslie https://t.co/hKCQZpbjJl  #xmas #zurich #switzerland #food #drink…
+New Tweet:
+LIVE on #Periscope: Lunch Time in Mexico!!🔥👫🍉 #food #ama #inspire (Mexican Burgers😋) https://t.co/bVwibebx2t
+New Tweet:
+#sondage #food #ChoisisTonCamp 
+🍟 Choisis ton camp :
+New Tweet:
+#food, hungry, lunch, real housewives of atlanta, kandi burruss, give me food, im not nice… https://t.co/gQ0OLBCzvo https://t.co/Z6RmaPxpNX
+New Tweet:
+Bacon Wrapped Jalapeno Chicken Bites https://t.co/Ov9FoSpuZM #FoodPorn #Food #FoodBlogger
+New Tweet:
+The 1 minute 30 second wait for my lunch to heat in the microwave feels like the longest wait of the day #lunch #food #hungry
+New Tweet:
+#MHDFKHI World Famous Sabri Nihari comes to DHA #Karachi #Food https://t.co/61PvspsYpD
+New Tweet:
+RT @HealthyKadai: Plain #Dosa #Recipe - easy #SouthIndian #Food
+#Foodie #Indianfood #healthy https://t.co/FC7zB5eRMs https://t.co/6AtcCL92Xx
+New Tweet:
+New post 🎄🍴🇬🇧 #vegan #christmas #london #restaurants #food #kindculture #kindcultureuk #travel 
+
+https://t.co/BEtWfhZILr
+New Tweet:
+Kulinar's Ruben Sandwich #food🍴 #great #carryout# 440/951-0888 https://t.co/elxl5JS78k
+New Tweet:
+Love Thai food? Join the best cooking class in Chiang Rai https://t.co/gJx2Osb9uW #food #travel
+New Tweet:
+.@alphabetincUS is considering a new endeavor called Wing Marketplace for #food delivery via #drones… https://t.co/g0kPnUK7mt
+New Tweet:
+DNA Testing. https://t.co/Chnf5M4wYT #healthcare #wellness #wsj #business #bloomberg #fitness #food #nutritional… https://t.co/PwX0zc0cos
+New Tweet:
+RT @EatMeDrinkMeLDN: Let’s talk about #food this weekend for the #W5FoodMkt  @theblissbrownie @desibakerboy @cheesecakegb @Capocacciafinef…
+New Tweet:
+RT @iCook_co: Am I The Only One Around Here https://t.co/diG9IBWhYJ #food #recipes  #uncategorized #amitheonlyonearoundhere #memes
+New Tweet:
+I per postre pizzeta de #nutella by @LaMentaBerga  ! #antojo #food #Berga #Bergueda https://t.co/Lel0reQqVZ
+New Tweet:
+Hoping to win a luxury Christmas hamper of goodies from @blossominggifts &amp; @raisingtherings #food #bonanza #win #RT https://t.co/3CddIDkwte
+New Tweet:
+RT @bibisgrill_ng: #AboutLastWeekend #BoliFiesta was lit. We had fun! 
+#BibisGrillHouseNg #FeelTheSpices #Food #FoodPorn #Foodie #FoodLover…
+New Tweet:
+RT @Delicious_Feed: "#Chocolate Honeycomb Milkshake" #food #cooking #gourmet #deliciousfood https://t.co/niHXfODPeX
+New Tweet:
+RT @InterfloraUK: Like this tweet &amp; tell us your favourite #festive #food for a chance to #WIN this #fun #Christmas centrepiece! https://t.…
+New Tweet:
+New #food idea: Dicken Strips https://t.co/5ofDySXdFU via @YouTube
+#vlog #behindthescenes #secret #secretmenu #extra #bonus #video #lunch
+New Tweet:
+Let our atmosphere, #ambiance, and #food elevate your #dining experience. https://t.co/nbp4GeoK3k
+New Tweet:
+#pissing #porn #asmsg #porn #public #books #Japanese #food 
+
+--&gt; https://t.co/iWBh6KIsKR https://t.co/qGAhnTUt2F
+New Tweet:
+RT @VeraEGilford: @video Warning #Food created in #3Dprinting printer. @VeraEGilford  #author #nutrition @ABC @CNN #wellness #MillennialTal…
+New Tweet:
+RT @InterfloraUK: Like this tweet &amp; tell us your favourite #festive #food for a chance to #WIN this #fun #Christmas centrepiece! https://t.…
+New Tweet:
+"#Chocolate Honeycomb Milkshake" #food #cooking #gourmet #deliciousfood https://t.co/niHXfODPeX
+New Tweet:
+RT @iCook_co: Am I The Only One Around Here https://t.co/diG9IBWhYJ #food #recipes  #uncategorized #amitheonlyonearoundhere #memes
+New Tweet:
+Prawn pesto pizza by socialmischiefs source:500px #food https://t.co/75jR0kqCzY
+New Tweet:
+FoodPhotography
+.
+.
+#photogourmet #food #gourmet #foodphotographer #culinaria #tomates #tomatoes… https://t.co/w6n3w4eVQp
+New Tweet:
+The Pour: A Top 10 Wine List Built on Memories #food #dining https://t.co/SBgIQTou61
+New Tweet:
+RT @TheOwlHighBeach: Open from 12pm #food #essex #pub #food #highbeech #loughton #wine #lunch #dinner https://t.co/LkOG3SLY4n
+New Tweet:
+RT @Quartz87: Hey #Winnipeg, come down to #TheKeg on Portage and Moray and enjoy lunch, open from now until the 23rd at 11:30, M-F! #Food #…
+New Tweet:
+RT @Ariyaya_Events: Food idea: would you serve this to your guest at an event.#food #foodporrn #nigeriafood #ariyaya https://t.co/dW8NGo9DdO
+New Tweet:
+#milka #xmas2016 #food #foodporn #yum #instafood #yummy #amazing #instagood #photooftheday… https://t.co/O1384Z1teG
+New Tweet:
+🍷#wine #vino #picoftheday #photooftheday #food #foodporn #foodgasm #vsco #vscocam #vscogood… https://t.co/8Tr7bYcFys
+New Tweet:
+#Food #News (#GroupBoard) : A NEW 7-DAYS LEMON DIET WILL DETOX AND BURN FAT https://t.co/fURJWjButs https://t.co/0mH88X3ibl
+New Tweet:
+Love preparing colourful meals #nutrition #wellness #food https://t.co/ccPMThpft0
+New Tweet:
+New #trending #GIF on @giphy #food, hungry, lunch, real housewives of atlanta, kandi burruss, give me food, im not … https://t.co/1t9y9szgyN
+New Tweet:
+#NationalBrownieDay https://t.co/5dPzMiG2UL I know a little about #brownies! #foodporn #food #photo #baking
+New Tweet:
+#food #foodporn #foodie https://t.co/3Ao6iPwVB3
+New Tweet:
+#bestoftheday  #деньги #food   https://t.co/4TDEAKrBks  Вышли формулы налогового сегмента для предприятий
+New Tweet:
+Is it possible to celebrate the season without packing on pounds? You bet! https://t.co/wFG5VkS2Wq #holidays… https://t.co/BK6HHG4UfZ
+New Tweet:
+https://t.co/JmlMv9cXQg  Отражены виды налогового обременения для малого бизнеса #swag  #food  #деньги
+New Tweet:
+https://t.co/PREMJsQs75  Разработаны виды налогового права для предпринимателей #food  #деньги #smile
+New Tweet:
+#RT [homemade] chocolate cake with tree like outer bark topped with four raspberries. #food https://t.co/qoCiZbTHLu
+New Tweet:
+Love Valentino's? Get there free w/ Lyft - $50 credit Use Lyft Promo Code COAX #food #restaurant #foodie #grub #lyft #uber #date
+New Tweet:
+#RT [Homemade] white chocolate Christmas trees! #food https://t.co/qhWkv19ZDu
+New Tweet:
+#RT [I Ate] grilled cheese and Campbell's tomato soup. Ahhh comfort food. #food https://t.co/Zbj9GBuAxU
+New Tweet:
+#RT [I Ate] Traditional Ceviche in Arequipa, Peru #food https://t.co/la0To63XQM
+New Tweet:
+Get $7 off #DoorDash #Free #Food #Delivery #Promo #Code “x7t9Ix” https://t.co/gY2RAFDrMa
+#Indianapolis #Houston
+New Tweet:
+#RT Can you give me some simple and fast recipes? #food https://t.co/SsAGCDuH93
+New Tweet:
+"The luxury is in your hands, in your ability." - @alexatala #powerful #food #passion #pizza… https://t.co/UzlnnkQ6B6
+New Tweet:
+#RT 30 Minute Korean Bibimbap Recipe[Homemade] #food https://t.co/uXFmXurMxA
+New Tweet:
+#RT [i ate] Tempura Fried River Shrimp in Vientiane, Laos #food https://t.co/wM67wbKcNY
+New Tweet:
+BestFoodPicture: Peanut Butter Cup Cheesecakes https://t.co/E1n8cP88WY #food https://t.co/bHOI0SBWsB
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Oh Em Gee Veggie Burgers from my new cookbook! https://t.co/JpT2Cq8fnV
+New Tweet:
+#ebony #picoftheday #erection #amateur #tittytuesday #bigass #food #vendita 
+
+ --&gt; https://t.co/8mKAHSQFDf https://t.co/t5ZcBJN0CR
+New Tweet:
+RT @myfriend_bella: With all the extra #food around during the #holiday_season remember not somethings are bad for us #dogs!
+https://t.co/K…
+New Tweet:
+Love eggnog a lot or a little, this recipe is adaptable! #recipes #food https://t.co/2Dm7hNbfsy
+New Tweet:
+Collaboration marque / média entre @BjorgOfficiel et @Gustave_Rosalie 
+#brandcontent #media #food #bio… https://t.co/5FrvQ1ITzC
+New Tweet:
+RT @lpsmediaoffice: Today we were fortunate enough to pick up some early donations for @lifespinorg ! #Toys and #Food were brought in by #L…
+New Tweet:
+DNA Testing. https://t.co/8fu3n7jswR #healthcare #wellness #wsj #business #bloomberg #fitness #food #nutritional… https://t.co/hALogwQMzi
+New Tweet:
+RT @hampsteadmkt: #Hampstead institution @TheHollyBushPub does eggs-traordinarily good #food. And you can find it at Hampstead market this…
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Papa?s New World Giambotta https://t.co/YeLU7KM8Xm https://t.co/kVh0yN0EUy
+New Tweet:
+#food, hungry, lunch, real housewives of atlanta, kandi burruss, give me food, im not nice… https://t.co/QdAVAVFko5 https://t.co/z79q62YBYt
+New Tweet:
+RT @vagrantcook: #Instagram, you know how I like it.. #scuba #diving + #food #bonein #burgers #wasstinktwiekäse @… https://t.co/JSy3fyigDr
+New Tweet:
+RT @SerenityYou: What is your favourite item from my November @DegustaboxUK? https://t.co/A6GtWRpCO9 #food #foodie https://t.co/FEAhPBqI90
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Easy Skillet Blackberry Cobbler https://t.co/8tKw1p711N https://t.co/pSfdqGQvJr
+New Tweet:
+Popular on @500px : Fresh home made pizza by captainmilos | https://t.co/063QfrSPIC #500px #food #popular https://t.co/bDVAAw4Er9
+New Tweet:
+Popular on @500px : Prawn pesto pizza by socialmischiefs | https://t.co/nKrNkuhSPE #500px #food #popular https://t.co/W3E9l2QC8K
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Two New Food Shops for Food Lovers… https://t.co/psAVFlyZSK
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Oh Em Gee Veggie Burgers from my new...… https://t.co/HTCvUUCHfO
+New Tweet:
+RT @recyclinglives: "Have we reached peak food?" @ProfBrianCox asks at #RSScienceMatters #Feedingthefuture event - @royalsociety #food #foo…
+New Tweet:
+Engaging the next generation with #food #environment &amp; #landscape is essential for long term #sustainability https://t.co/BSTgwWckLv
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Fried Zucchini Chips https://t.co/ch54V9wxaS https://t.co/gd2WvX0RPD
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Chocolate Chunk Cake Batter Cookies |...… https://t.co/WrU0846gCk
+New Tweet:
+RT @HealthyKadai: Plain #Dosa #Recipe - easy #SouthIndian #Food
+#Foodie #Indianfood #healthy https://t.co/FC7zB5eRMs https://t.co/6AtcCL92Xx
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Papa?s New World Giambotta https://t.co/0r5RusenVE https://t.co/GllhVT4s7V
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Cauliflower couscous https://t.co/AFNTotlkZa
+New Tweet:
+@video Warning #Food created in #3Dprinting printer. @VeraEGilford  #author #nutrition @ABC @CNN #wellness… https://t.co/9dHm1aw3fl
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Easy Skillet Blackberry Cobbler https://t.co/DhYP8MADRr https://t.co/6GhujWhyNe
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Two New Food Shops for Food Lovers… https://t.co/hopgTfHiQY
+New Tweet:
+#food #popular #photography #photo #FF #image #instagram #500px https://t.co/AlPVpE04pY
+New Tweet:
+"Made some Æebleskiver this #morning" #food #cooking #gourmet #deliciousfood https://t.co/cbUlzgWKKT
+New Tweet:
+RT @Bonjour_Paris: Worth the Splurge: Afternoon Tea at Le Meurice, #Paris  https://t.co/P3poTPAmJH @LeMeurice #food #travel
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Oh Em Gee Veggie Burgers from my new...… https://t.co/oWOIQXhIZ9
+New Tweet:
+You Don't Have to Be a Bad Girl to Love Slutty Brownies https://t.co/VbKjHhrCIn #food #recipe https://t.co/DtpyzlLYYG
+New Tweet:
+Please RT! #recipes #food #dessert Homemade Almond Rocha https://t.co/q9HKKb5keG
+New Tweet:
+Please RT! #recipes #food #dessert National Chocolate Cake Day https://t.co/CmbnPTlUOw
+New Tweet:
+Please RT! #recipes #food #dessert Kick Off Your Halloweekend with Severed Hand Pies https://t.co/fuZ09zUwtn
+New Tweet:
+Please RT! #recipes #food #dessert Skinnytaste Dinner Plan (Week 14) https://t.co/7OKUOZ88Y8 https://t.co/8HUskoztZ2
+New Tweet:
+Extra! Extra! Read All About It! #event #food #music https://t.co/AYOcWEYg3k https://t.co/s9jqf2jjEe
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Easy Skillet Blackberry Cobbler https://t.co/nNxUTcclCD https://t.co/YCGdUTruNf
+New Tweet:
+Please RT #recipes #food #cooking #delicious #cook #recipe Cauliflower couscous https://t.co/jEjKDzY1yv
+New Tweet:
+RT @CozyAtoZ: Peppermint Bark Hot Chocolate https://t.co/kpTOpxhJGD #food #feedly
+New Tweet:
+These porcelain sculptures tease lust and seduction through culinary excess http… https://t.co/6Z76H2bHKp #food
+New Tweet:
+Your pantry guide to the new essential baking spices https://t.co/bP9x615mRQ pic… https://t.co/9Wov8qWMcb #food
+New Tweet:
+Hoping to win a luxury Christmas hamper of goodies from @blossominggifts &amp; @raisingtherings #food #bonanza #win #RT https://t.co/R9u1u2sogc
+New Tweet:
+EasyRecipesrss: Please RT!! #recipes #food #cooking #delicious #cook #recipe Strawberry Oat Crumble Bars … https://t.co/OE03oXuvO9
+New Tweet:
+Fresh #WatermelonJuice with #boba #BubbleTea from @bubbleteasupply
+-
+#imenehunes #food #bo… https://t.co/ljUaqAB5sA https://t.co/d855GFRIzo
+New Tweet:
+Short of something for a snack? Try our Quick &amp; Easy Garlic Bread Mini #pizza #food https://t.co/hK0P6hpKZc #recipe https://t.co/ptzlM02BRZ
+New Tweet:
+Check out this new trending #funny #GIF ! #food, hungry, lunch, real housewives of atlanta, kandi burruss, give me … https://t.co/fz1EMTtd2A
+New Tweet:
+Courts agree #syntheticbiology crops may be problematic - https://t.co/1BdudA9qcK @gmcheeseman #GMOs #food
+New Tweet:
+#Sapeviche la polpa di granchio si ricava dalle parti più bianche del granchio? 
+Le #ricette su… https://t.co/EvrlY1Og6M
+New Tweet:
+RT @OAKFoodPolicy: We're at The National School Food Focus conference! Taking in the best practices and trends for #healthy school #food pr…
+New Tweet:
+Its #PinesParkArchers #ChristmasDinner. Tonight. Should b an entertaining night. #Food #Alcohol #Laughs
+New Tweet:
+#igers  #instadaily  #happy   бмв х7
+New Tweet:
+#picoftheday   #happy  #girl   русские рингтоны 2015
+New Tweet:
+When life gives you everything @ ones ☝️ #Happy 😁 https://t.co/wO2OUASUX8
+New Tweet:
+Скорей бы уже новый год что ли😄🤗 #зима #нг #winter #happy https://t.co/n3OkaceIWu
+New Tweet:
+RT @noveliciouss: Think of all the #beauty still left around u &amp; be #happy
+~Anne Frank
+#writing #love https://t.co/zfGW6RjCll
+New Tweet:
+RT @HotAdultModels: 😍😍 #HAPPY #WEEKEND WITH 😍😍
+  😍😍@NestyXXX @ChristenCrtny  @DreamNikky
+#RT &amp; FOLLOW 😍😍
+                  😍😍 https://t.co/…
+New Tweet:
+Snapchat filters are the 💣. #selfie #vancouver #instadaily #instacute #happy #like #followme… https://t.co/IoB6WITUno
+New Tweet:
+Al ataque llegaron los chicharrones 🐷 #Cusco #Trip #Happy 😍 @ Picanteria La Cusqueñita https://t.co/GRzq6WgUDv
+New Tweet:
+Smoking on some gooooood with my budz. Praying everyone else is warm &amp; cozy tonight too! #happy #grateful #blessed… https://t.co/vb6d2RxKil
+New Tweet:
+👱 😄 😄 🌠 #spiritual #faith #faithful #god #grace #pray #prayers #praying #happy #happydays… https://t.co/VMtsJrhX1S
+New Tweet:
+RT @IdeaLabAfrica: #FridayFacts:
+
+We got that (Fri) Feeling,that tonight's (today's)going to be a good night (day)!...Oooh hoo!
+
+#happy #of…
+New Tweet:
+#architecture  #art 
+Krystal like doggystyle
+Find her on ❤️ https://t.co/VqUFGQBQXk 👈
+#sexygifs #happy https://t.co/sbLMbsXjsI
+New Tweet:
+RT @DentalTrails: Check out these helpful tips that will help keep your teeth protected this Halloween:
+#Dental #Tip #Temple #Happy #Teeth…
+New Tweet:
+#up #Beach #hottiesofthenet #happy #nature #panty #bodystocking #milf --&gt; https://t.co/LKTMcm68Kk https://t.co/zxbsDcPGM1
+New Tweet:
+Actions speak louder than words, and a smile says I like you. You make me happy. I am glad to see you. #smile #happy #walkthetalk
+New Tweet:
+RT @JenniferLMeyer: #happy post
+
+#bunny #hugs https://t.co/k1cg18OBzS
+New Tweet:
+RT @UsamomoAki: 今日のランチ🍝お腹いっぱい🌟😃
+I had so much for lunch.
+
+秋刀魚のトマトペペロンチーノ🍅
+Peperoncino of a saury and the tomato.
+#happy #delicious #btb#いいね…
+New Tweet:
+RT @UsamomoAki: 今日のランチ🍝お腹いっぱい🌟😃
+I had so much for lunch.
+
+秋刀魚のトマトペペロンチーノ🍅
+Peperoncino of a saury and the tomato.
+#happy #delicious #btb#いいね…
+New Tweet:
+👱 😄 😄 🌠 #spiritual #faith #faithful #god #grace #pray #prayers #praying #happy #happydays… https://t.co/xlmwwLhDNL
+New Tweet:
+RT @s_owiakowska: Fit is not a destination.. it is a way of life ! #fit #fitness #positive #smile #happy #training #inspiration #motivation…
+New Tweet:
+Hey folks, check out our awesome gothic wedding Rings and  LGBT wedding rings 
+#instagram #happy… https://t.co/arbP6ak5PU
+New Tweet:
+#forgive #sorry #happy #motivation #inspire #sunday
+For more Quotes: https://t.co/mNlSOUI5wQ https://t.co/r2BYOCqToD
+New Tweet:
+RT @Ruby_TaeSica: Me too♡♡♡ So glad that you love it
+
+#트와이스 #TWICE #쯔위 #TZUYY #ILOVEYOU #HAPPY https://t.co/yODen8MKbp
+New Tweet:
+RT @Ruby_TaeSica: Me too♡♡♡ So glad that you love it
+
+#트와이스 #TWICE #쯔위 #TZUYY #ILOVEYOU #HAPPY https://t.co/yODen8MKbp
+New Tweet:
+Fit is not a destination.. it is a way of life ! #fit #fitness #positive #smile #happy #training #inspiration #motivation #workout
+New Tweet:
+Setahun yang lalu. #sasukeninjawarriorindonesia #stagemanagement #happy #family #smile #laugh… https://t.co/z9jvY6iFB9
+New Tweet:
+RT @UsamomoAki: 今日のランチ🍝お腹いっぱい🌟😃
+I had so much for lunch.
+
+秋刀魚のトマトペペロンチーノ🍅
+Peperoncino of a saury and the tomato.
+#happy #delicious #btb#いいね…
+New Tweet:
+RT @Ruby_TaeSica: Me too♡♡♡ So glad that you love it
+
+#트와이스 #TWICE #쯔위 #TZUYY #ILOVEYOU #HAPPY https://t.co/yODen8MKbp
+New Tweet:
+#happy #rose #red #smile #lifestyle https://t.co/YVmtdgn5vD
+New Tweet:
+RT @JaanaUolamo: Follow your own #heart - only you know what makes you #happy ❤ #love #intuition #passion https://t.co/IqI8JMcrit
+New Tweet:
+RT @Princenomad8: I am thankful for having the sense of sight. #thankful #positive #happy  https://t.co/5d6cPqe05a https://t.co/G78AZx3i73
+New Tweet:
+Do more of what makes you happy &amp; healthy. 😏🙏🏽 #happy #yoga #yogainspiration #innerpeace… https://t.co/H9Ozd8sLKN
+New Tweet:
+#katie #datingtips #happy #itunes #xxx #Lingerie #sideboob #farm
+
+ --&gt; https://t.co/GFpAJWqNWp &lt;-- https://t.co/N8TDc1hM4Y
+New Tweet:
+#happy #better #strong #together
+For more Quotes: https://t.co/mNlSOUI5wQ https://t.co/57wBu1gz5N
+New Tweet:
+今日のランチ🍝お腹いっぱい🌟😃
+I had so much for lunch.
+
+秋刀魚のトマトペペロンチーノ🍅
+Peperoncino of a saury and the tomato.
+#happy #delicious… https://t.co/hAao34SSsS
+New Tweet:
+#fun #porn #flogger #porn #happy #sick #instapic #spicegirls  --&gt;&gt;&gt; https://t.co/gIIhiwDrdr https://t.co/66RlLeZr0m
+New Tweet:
+La rica lluvia cusqueña 😍 #Cusco #Trip #Happy #ILoveTheRain 🙈❤ @ Cusco, Peru https://t.co/nGQTFK8AQI
+New Tweet:
+RT @Ruby_TaeSica: Me too♡♡♡ So glad that you love it
+
+#트와이스 #TWICE #쯔위 #TZUYY #ILOVEYOU #HAPPY https://t.co/yODen8MKbp
+New Tweet:
+Do not live in #regret, life is too #beautiful to waste in regret.
+#live #happy #womenover40 #women… https://t.co/e1gVXJQBMC
+New Tweet:
+RT @6131sim: ユノケル「マイケル・ジャクソン追悼公演」のユノを見守るチャンミンとミノ
+あの辛い時チャンミンに寄り添いユノを見ていたミノ。本当にありがとう｡ﾟ
+
+#HappyMinhoDay 
+#Happy BirthdayMinho https://t.co/JR9…
+New Tweet:
+windy today
+Miramar
+#thankful #joy #happy #soulhealing #claupics💙🚴🏻 #cycling #beach#breeze @… https://t.co/nzagj8vTMl
+New Tweet:
+#happy hardcore torrents italian movie sex scenes jazz naked
+New Tweet:
+Sometimes all you have to do is to smile.😆 #PHOTOS #photography #ocean #smile #happy #nature #EARTH #positivity… https://t.co/FHDKLWhXaa
+New Tweet:
+#merrychristmas #holidays #winter #christmastree #christmas #peace #and #love #family #happy #smile https://t.co/lUnUuqNVlW
+New Tweet:
+#Happy https://t.co/8WOG1u5VKP
+New Tweet:
+#igers  #instadaily  #happy   200 грамм творога переварится
+New Tweet:
+RT @JackieZeman: Shooting with this cool handsome Dude  #happy @thebaytheseries tristanrogers #bingethebay https://t.co/pnqf6XWmfj
+New Tweet:
+Piedra de los 12 ángulos 😉 #Cusco #Trip #Happy 😄 @ Calle Hatunrumiyoq PIEDRA DE LOS 12 ANGULOS https://t.co/O304uKFKjZ
+New Tweet:
+#Happy End für Sándor und Jo https://t.co/agLVmr5tLy #Flirt #Date #Liebeswahnsinn https://t.co/vkkSP55ZPa
+New Tweet:
+Get a healthy £300 free + 50 free spins when you join Boylesports Casino #happy https://t.co/Y1XAcLhvLl https://t.co/w3jEzfSE7c
+New Tweet:
+Be Happy@ #be #happy #successwithlindabomba https://t.co/3dnYyv6C9C
+New Tweet:
+можно несовершенно летним заказывать по почте #picoftheday   #happy  #girl
+New Tweet:
+$18.99 #Custom #Initial Pendant #Silver https://t.co/WB4yBsRJcW #etsyshop #jewelryonetsy #styleblog #happy #etsychaching #jewelryoftheday
+New Tweet:
+RT @djmonicax: Just arriving to #Casablanca, next stop #Rabat a great country #Morocco #Happy #Halloween 🎃 👻#Too-Much https://t.co/l7QVtIPs…
+New Tweet:
+RT @djmonicax: #Happy #Shazam #Verified #DJ #MonicaX #edm #VModa #Top100Djanes #xfamily @Shazam https://t.co/UBH8rIWonw
+Follow me! 6.705 Fo…
+New Tweet:
+TGIF♡
+Work hard, play hard.
+
+#決戦の金曜日 
+#done #done✔️ 
+#tgifridays #tokyo #happy
+#happygirl @… https://t.co/6Ry7IRDB9L
+New Tweet:
+RT @Ruby_TaeSica: Me too♡♡♡ So glad that you love it
+
+#트와이스 #TWICE #쯔위 #TZUYY #ILOVEYOU #HAPPY https://t.co/yODen8MKbp
+New Tweet:
+DANNY GOT GIRL SCOUT COOKIES AT WORK!!! NOOOMMMM NOOOMMMM NOOOMMMM!!! #Happy #Somoa
+New Tweet:
+RT @VigneshSammu: Thalaivi @Samanthaprabhu2 &amp; #Samantha Bloods ku Oru #Happy Morning☺☺☺ https://t.co/RxgBQC7xiv
+New Tweet:
+You won't believe it,Dill came back but this time without permission for his parent.He told me all about his journey#Truelove #Sneaky #Happy
+New Tweet:
+One more day until the weekend! Who else gets excited?! #happy #thursday #datenight #happyhour ##weekend #gnoments
+New Tweet:
+Enjoy reality even more 👊👌
+.
+.
+👌
+#cannabissativa
+#cannabis #marijuana #popquiz #fun #happy #cannabiscommunity #weed… https://t.co/58T1e71YVA
+New Tweet:
+RT @VangelhsK: Ρόδος ❤️ #ohyeah #live #ΜΑΖΙ #happy https://t.co/R4IYiPtqK8
+New Tweet:
+Arizona tea! Finally found it!
+#arizona #arizonatea #lemontea #fruitpunch #foundit #happy… https://t.co/KbH8RJkXQ4
+New Tweet:
+🚪🚪🚪🚪🚪
+
+#扉をあけて #happy #enjoy #like #instagood #l4l https://t.co/CWmnzQN6L2
+New Tweet:
+#happy hardcore playlist super mega nude women anjali kara porn
+New Tweet:
+#happy #squirt #nake #camgirl #russian #xvideo #followme 
+
+---&gt; https://t.co/jyeol6fEfv https://t.co/tcIiXA9Isy
+New Tweet:
+Weed vs Hash 👌
+.
+.
+#educateyourself 👌
+#cannabissativa
+#cannabis #marijuana #popquiz #fun #happy #cannabiscommunity … https://t.co/vvgPNa9ePo
+New Tweet:
+Green💚 #puertorico #mountains #earth #nature #green #grass #PHOTOS #photography #GOGREEN #pretty #happy #sunny… https://t.co/UV8TEmgWx8
+New Tweet:
+Qatar Day wishes a "Happy Birthday" to all those celebrating today (December 9, 2016). #Happy #Birthday
+
+On your... https://t.co/OffwwK0SBK
+New Tweet:
+* * *
+可愛い後輩（仮）が買ってくれた🤗🎂
+#thankyou #birthday #happy #cake https://t.co/uUH38WKFcD
+New Tweet:
+#Happy ☺ @ Silifke Karadedeli Tatil Köyü https://t.co/PXCYPB5vim
+New Tweet:
+Arbolito armado #motocross #happy #feliz #GenteInteligente https://t.co/QeoIgVHyGZ
+New Tweet:
+RT $13.99 Sapphire Silver Ring Tiny #Ring https://t.co/q6uYKMhaif #onlinecraft #finejewelry #fashiondiaries #happy… https://t.co/AcfQniDqAv
+New Tweet:
+My #friend told me today that he has a #calling.#He was #called to #speakout about the #wrong in the #world.#happy tears
+New Tweet:
+On a #HAPPY Note! #merrychristmas #happyholidays #peaceonearth #angelsinheaven https://t.co/nyal70brLX
+New Tweet:
+Our system can win during uptrends, downtrends or consolidations. Check results at: https://t.co/fQ3oMkTRx3 #Happy #GoodEA #FundManager
+New Tweet:
+#igers  #instadaily  #happy   производственный план
+New Tweet:
+Son unas petizas jajaja 😂 #Cusco #Trip #Happy 😄🚔👮 @ Plaza de Armas del Cuzco https://t.co/dfz7YYCCmY
+New Tweet:
+#picoftheday   #happy  #girl   домофонд ру
+New Tweet:
+RT @champagneepoppa: At the end of the day you gotta be #happy for you.
+New Tweet:
+Красота ночного города)💪🙈😊 #instabot #instabox #instasize #instagood #molly #moldiv #hab #happy… https://t.co/EP8DmJ8xoG
+New Tweet:
+A growing #collection is a #happy #life 😊 #harleyquinn #joker #collector #dcuniverse #nerdgirl… https://t.co/fxSkKOKnHz
+New Tweet:
+At the end of the day you gotta be #happy for you.
+New Tweet:
+#happy  Don't let anyone dim your sparkle! Choose happiness every time over being right. Choose… https://t.co/2slARq2L6V
+New Tweet:
+RT @JenniferLMeyer: #happy post
+
+#cute Hippo https://t.co/I8bryiZAS5
+New Tweet:
+@krystledsouza @AshleshaKaruta1 @Afshan97 @poonamehmmbh 
+#viren jeevika most beautiful 
+Journey started and it's 5… https://t.co/cLf6VgkNaf
+New Tweet:
+RT @Ruby_TaeSica: Me too♡♡♡ So glad that you love it
+
+#트와이스 #TWICE #쯔위 #TZUYY #ILOVEYOU #HAPPY https://t.co/yODen8MKbp
+New Tweet:
+RT @JackieZeman: Shooting with this cool handsome Dude  #happy @thebaytheseries tristanrogers #bingethebay https://t.co/pnqf6XWmfj
+New Tweet:
+Taken 
+#wedding #bride #groom #party #weddingparty #celebration #bridesmaids #happy #happiness… https://t.co/UBu3immHA6
+New Tweet:
+RT @rgetfebour91: юношам о девушках беседы для старшеклассников #igers  #instadaily  #happy
+New Tweet:
+Some days you just want to get out and walk. Enjoy the sights, the atmosphere, the people. #happy https://t.co/5GfvCfproN
+New Tweet:
+RT @GratefulDogsSF: #happy boy Woody is a lovable guy, ready to wag his way into ur #heart https://t.co/2d85CW5P6r #woofwoofwednesday #BayA…
+New Tweet:
+RT @JenniferLMeyer: #happy post
+
+#cute Hippo https://t.co/I8bryiZAS5
+New Tweet:
+RT @mhiclass: 161209 세상 가장 소중한 민호야 생일 축하해ㅍ_ㅍ)🎂 #민호야생일축하해 #HappyMinhoDay #happy #민호 #minho #최민호 #choiminho
+https://t.co/OLGCy7ggTk https://t…
+New Tweet:
+--------------&gt;  Ali  Tmak @Ali_Tmak  Wishes #Happy  Holidays ... https://t.co/OioN1Ijl6M
+New Tweet:
+Como cuando un estudiante te cuenta un chiste!! 😂😂 #toomuch #smile #specialteacher #happy https://t.co/e8XR7ctTqS
+New Tweet:
+T.B.Q.F.H #puppy #dog #dogstagram #smile #happy #photoftheday #PicOfTheDay #cute https://t.co/9bLXmhWNkf
+New Tweet:
+RT @RosaTrunk: @Avargas2403 @Christy__Anne @marizulca @Sussy72 @miumiuhoney @be1t2h 
+TY Dear Auda💕  #Happy Friday All💕 https://t.co/J2gKgbq…
+New Tweet:
+#happy hardcore torrents malagasy porn ru amature
+New Tweet:
+RT @Ruby_TaeSica: Me too♡♡♡ So glad that you love it
+
+#트와이스 #TWICE #쯔위 #TZUYY #ILOVEYOU #HAPPY https://t.co/yODen8MKbp
+New Tweet:
+@as_Reckless is officially coming home for Christmas!!! I'm so excited ❤️❤️❤️ #happy
+New Tweet:
+@deespeak @SrBachchan #happy birthday dear https://t.co/apN0Nkzbsm
+New Tweet:
+RT @JenniferLMeyer: #happy post 
+
+#bunny https://t.co/yfXVeyRvBm
+New Tweet:
+RT @JenniferLMeyer: #happy post
+
+#bunny #hugs https://t.co/k1cg18OBzS
+New Tweet:
+At @ The Ritz Carlton #singapore #ritz #hotel #ritzcarlton  #happy #funny #happylife #funnylife… https://t.co/rMAnhSy8oc
+New Tweet:
+RT @_nicole_as: ニコル 1stアルバム 「bliss」✨
+ニコルのキュートな可愛さ爆発！！
+リード曲『HAPPY』
+https://t.co/YAoeapNGUN
+@youtubeより
+#ニコル #nicole #bliss #happy https://t.c…
+New Tweet:
+T.G.I.F! 😘😍😜😋
+•
+•
+•
+•
+•
+•
+#TGIF #Friday #photooftoday #alone #happy #beyond #blessed #grateful… https://t.co/WEffn8ylUb
+New Tweet:
+RT @jennifercetrone: vive_organic kept me #happy + #healthy at my #desk #all #day #today 😍 #viveorganic #organic .… https://t.co/dr978xXnzo
+New Tweet:
+RT @uno_uno_0716: »»»--LOVE--▶♥️
+#橘佳奈 #birthday #happy #bestfriends #大好きな人の幸せ https://t.co/YikRIo9CPQ
+New Tweet:
+RT @jennifercetrone: vive_organic kept me #happy + #healthy at my #desk #all #day #today 😍 #viveorganic #organic .… https://t.co/dr978xXnzo
+New Tweet:
+Momento mágico 😘 #Cusco #Trip #Happy 😍 @ Plaza de Armas del Cuzco https://t.co/sLVeddyRzc
+New Tweet:
+RT @jennifercetrone: vive_organic kept me #happy + #healthy at my #desk #all #day #today 😍 #viveorganic #organic .… https://t.co/dr978xXnzo
+New Tweet:
+#Happy anniversary Ratheesh Kumar https://t.co/4fpdU0gIAc
+New Tweet:
+RT @worldloveflower: When you look the good in others, you discover the best in yourself! 😘 #happy #sunday #love #flowers in ... https://t.…
+New Tweet:
+お花たくさん◎
+#art #drawing #illustration #aclyric #sketch #painting #fashion #japan #creative #colorful #happy #fuyumi… https://t.co/ybb6AQ1940
+New Tweet:
+#sexcams #hookups #happy #deals #girlstrip #sexybrunette #tattooed 
+
+--&gt; https://t.co/sEkCFhwCsG https://t.co/18RF0AdA9B
