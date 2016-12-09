@@ -1,8 +1,7 @@
 # hadoop-demo-project
 ## This repo contains a demonstration project to display the usefulness of Hadoop with Python.
 
-## Based on http://www.glennklockwood.com/data-intensive/hadoop/streaming.html with 
-some modifications to work on our Hadoop system.
+## Based on http://www.glennklockwood.com/data-intensive/hadoop/streaming.html with some modifications to work on our Hadoop system.
 
 ### 1. Transfer Mapper and Reducer programs to server, along with any input files.
  - We used FileZilla, but any file transfer program should work
