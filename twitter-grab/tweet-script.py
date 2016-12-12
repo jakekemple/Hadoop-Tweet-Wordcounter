@@ -6,10 +6,10 @@ from tweepy import Stream
 import sys
 
 #Variables that contains the user credentials to access Twitter API
-access_token = "2842408481-TtwFDJpcnjmoJXSJRpCMF6llHPBnUvr7mNdOgzT"
-access_token_secret = "RhP31HRTdmGmhfpOHYjY7UECGQVg34XxNX02ymtvDY1wV"
-consumer_key = "OjvwP5iftQjXKTw20iLinoasC"
-consumer_secret = "dMFGwZD5eqHsTSLrIx9sc1K4D5wcsXtI9ccsVVuFY3vcQOrnYq"
+access_token = "XXXX"
+access_token_secret = "XXXX"
+consumer_key = "XXXX"
+consumer_secret = "XXXX"
 
 hashtag_word = "#" + sys.argv[1]
 
