@@ -1,6 +1,6 @@
 #!/bin/bash
 
-file="fetched_tweets.txt"
+file="serial_sorted.txt"
 
 # Check if fetched_tweets textfile already exists, if so, remove it
 if [ -f $file ] ; then
@@ -8,4 +8,4 @@ if [ -f $file ] ; then
 fi
 
 # Run the python script with the command line argument
-python3 tweet-script.py $1
+python3 serial-wordcount.py $1
