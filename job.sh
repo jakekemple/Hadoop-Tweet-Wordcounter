@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Copy fetched_tweets textfile to the hdfs job folder
+# Copy textfile to the hdfs job folder
 hdfs dfs -copyFromLocal -f $1 /tweet-wordcounter-job
 
 # Remove completed-wordcount directory from past completed jobs

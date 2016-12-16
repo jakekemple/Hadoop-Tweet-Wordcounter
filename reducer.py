@@ -4,21 +4,21 @@ import io
 import sys
 input_stream = io.TextIOWrapper(sys.stdin.buffer, encoding='ISO-8859-1')
 
-last_key = None
-running_total = 0
+word_dict = {}
 
-for input_line in input_stream:
-    input_line = input_line.strip()
-    this_key, value = input_line.split("\t", 1)
+for line in input_stream:
+    line = line.strip()
+    key, value = line.split("\t", 1)
     value = int(value)
 
-    if last_key == this_key:
-        running_total += value
+    if key not in word_dict:
+        word_dict[key] = value
     else:
-        if last_key:
-            print( "%s\t%d" % (last_key, running_total) )
-        running_total = value
-        last_key = this_key
+        word_dict[key] += value
 
-if last_key == this_key:
-    print( "%s\t%d" % (last_key, running_total) )
+#Get sorted list of keys
+keys = [(k, word_dict[k]) for k in sorted(word_dict, key=word_dict.get, reverse=True)]
+
+#Print each word with its count
+for k, v in keys:
+    print("%s\t%d" % (k, word_dict[k]))
