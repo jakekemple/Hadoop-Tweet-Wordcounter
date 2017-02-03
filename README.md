@@ -2,7 +2,7 @@
 
 ## What is it?
 
-A tweet retriever & hadoop wordcounter job. Built to show the hadoop hdfs usage for a CSC 333 profect at Missouri State University.
+A tweet retriever & hadoop wordcounter job. Built to show the hadoop hdfs usage for a 'CSC333: Languages & Machines' group project at Missouri State University.
 
 ## Why use it?
 
