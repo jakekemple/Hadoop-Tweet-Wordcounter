@@ -11,6 +11,7 @@ For sentimental analysis of the most recent tweets containing a particular hasht
 ## How it works
 
 There are 2 major steps in running the project: 
+
 1. Retrieve tweets via twitter-api by hashtag and put them into a textfile
 2. Run a wordcounter script with Hadoop to count the number of word occurences in the retrieved tweets file 
 
@@ -33,7 +34,7 @@ There are 2 major steps in running the project:
 - `hdfs dfs -ls [directory name]` can be used to verify files were copied to the HDFS
 - If you need to create a directory on the HDFS, run `hdfs dfs -mkdir /directory-name`
 - You can type 'hadoop-streaming-*.jar' instead of remembering the exact version number when accessing the hadoop jar file
-- $PWD gives the current working directory
+- `$PWD` gives the current working directory
 	 
 ### External Resources & Documentation:
 1. Mapper & Reducer based on this [Hadoop Application Walkthrough](http://www.glennklockwood.com/data-intensive/hadoop/streaming.html)
