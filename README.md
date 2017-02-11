@@ -2,7 +2,7 @@
 
 ## What is it?
 
-A tweet retriever & hadoop wordcounter job. Built to show the hadoop hdfs usage for a 'CSC333: Languages & Machines' group project at Missouri State University.
+A tweet retriever & hadoop wordcounter job. Built to show the hadoop hdfs usage for a 'CSC338: Parallel & Distributed Processing' group project at Missouri State University.
 
 ## Why use it?
 
@@ -37,4 +37,4 @@ There are 2 major steps in running the project:
 - `$PWD` gives the current working directory
 	 
 ### External Resources & Documentation:
-1. Mapper & Reducer based on this [Hadoop Application Walkthrough](http://www.glennklockwood.com/data-intensive/hadoop/streaming.html)
+1. The Mapper & Reducer are based on this [Hadoop Application Walkthrough](http://www.glennklockwood.com/data-intensive/hadoop/streaming.html)
